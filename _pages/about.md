@@ -53,32 +53,37 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 **NSDI 2024** Poster Session [[paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
 
 
-## All Publications
+<h2>All Publications</h2>
 <details>
   <summary>Expand</summary>
-
-  <!-- Content goes here -->
-  - **Zhuohan Gu**, Jiayi Yao, Kuntai Du, Junchen Jiang.<br>
-  **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
-  **NeurIPS 2024** workshop on Machine Learning for Systems (to appear) [[paper](https://neurips.cc/virtual/2024/workshop/84699)]
-  
-  - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-  **Optimization for Multi- Tenant Retrieval Augmented Generation Systems**<br>
-  **OSDI 2025** (under review)
-  
-  - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
-  **Transformer-based Predictions for Sudden Network Changes**<br>
-  **NSDI 2024** Poster Session [[paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
-
-  **Zhuohan Gu**, Dadu Chen.
-  **An Introduction to Loewner Energy**
-  **UChicago Math REU 2024** [paper]
-
-  **Zhuohan Gu**
-  **A Study in Markov Chains, Loop-Erased Random Walk and Loop Soups**
-  **UChicago Math REU 2024** [[paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
-
+  <ul>
+    <li><strong>Zhuohan Gu</strong>, Jiayi Yao, Kuntai Du, Junchen Jiang.<br>
+      <strong>LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts</strong><br>
+      <em>NeurIPS 2024</em> workshop on Machine Learning for Systems (to appear)
+      <a href="https://neurips.cc/virtual/2024/workshop/84699">[paper]</a>
+    </li>
+    <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+      <strong>Optimization for Multi-Tenant Retrieval Augmented Generation Systems</strong><br>
+      <em>OSDI 2025</em> (under review)
+    </li>
+    <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
+      <strong>Transformer-based Predictions for Sudden Network Changes</strong><br>
+      <em>NSDI 2024</em> Poster Session
+      <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[paper]</a>
+    </li>
+    <li><strong>Zhuohan Gu</strong>, Dadu Chen.<br>
+      <strong>An Introduction to Loewner Energy</strong><br>
+      <em>UChicago Math REU 2024</em>
+      <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[paper]</a>
+    </li>
+    <li><strong>Zhuohan Gu</strong>.<br>
+      <strong>A Study in Markov Chains, Loop-Erased Random Walk, and Loop Soups</strong><br>
+      <em>UChicago Math REU 2024</em>
+      <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[paper]</a>
+    </li>
+  </ul>
 </details>
+
 
 
 ## Education
@@ -86,8 +91,6 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 <!-- - High School Diploma, St. Anselm's Abbey School, Washington, DC, 2017–2020 -->
 
 ## Selected Awards
-
-
 
 
 <!-- A data-driven personal website
