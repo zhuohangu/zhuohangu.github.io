@@ -7,11 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-![The Campus South Athletic Field](/images/soccer_og.jpg){: .align-right width="300px"}
-*The Campus South Athletic Field*
+<div style="float: right; width: 300px; text-align: center;">
+  <img src="/images/soccer_og.jpg" alt="The Campus South Athletic Field" width="300px">
+  <figcaption><em>The Campus South Athletic Field</em></figcaption>
+</div>
 🎓 I'm a senior undergraduate at the University of Chicago studying Mathematics and Computer Science.
 
-👨‍💻 My primary research interests lie in computer systems and machine learning.
+👨‍💻 My research interests lie broadly in mathematics, computer systems, and machine learning. In mathematics, I have worked on probability theory, particularly the loop-erased random walk (LERW), Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE). In computer science, I work on
+1) Systems for machine learning and machine learning for systems  
+2) KV cache engineering, including KV cache compression and streaming  
+3) Retrieval-Augmented Generation (RAG) and GraphRAG systems optimization  
+I am also very interested in challenges in networking, video analytics, distributed systems, cloud computing and datacenter systems, network security, and generative AI.
+
 
 <!-- A data-driven personal website
 ======
