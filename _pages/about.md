@@ -24,26 +24,55 @@ I am fortunate to be advised by **Prof. Junchen Jiang** at the University of Chi
 I am looking for a PhD position starting in Fall 2025 and a research internship in Systems/ML for Summer 2025. Please feel free to reach out via email if you see a fit!
 
 ## Recent Projects
-Resource allocation for Multi-Tenant Retrieval Augmented Generation Systems
-- Check it out [here](https://uchi-jcl.github.io/group-website/projects/ragoptimization/)!
 
-**LMCache**: Long-Context LLM Serving by Sharing Knowledge (KV Cache)
-- **[LMCache project](https://github.com/LMCache/LMCache)**, the first *open-source* Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster, at 8x lower cost by efficiently managing long documents (and other sources of knowledge)🚀.
-- Blog: [LMCache blog website](https://blog.lmcache.ai/)
-- Technical reports： **[CacheGen](https://arxiv.org/abs/2310.07240)**(SIGCOMM'24) and **[CacheBlend](https://arxiv.org/abs/2405.16444)**(EuroSys'25 to appear).
+**Resource Allocation for Multi-Tenant Retrieval-Augmented Generation (RAG) Systems**  
+Check it out [here](https://uchi-jcl.github.io/group-website/projects/ragoptimization/)!
 
-KV Cache Compression and Streaming for Multimodal Large Language Models (MLLMs)
+**LMCache**: Long-Context LLM Serving by Sharing Knowledge (KV Cache)  
+- [LMCache project](https://github.com/LMCache/LMCache): The first *open-source* Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster at 8x lower cost by efficiently managing long documents (and other knowledge sources) 🚀.  
+- Blog: [LMCache blog website](https://blog.lmcache.ai/)  
+- Technical reports: [CacheGen](https://arxiv.org/abs/2310.07240) (SIGCOMM'24) and [CacheBlend](https://arxiv.org/abs/2405.16444) (EuroSys'25 to appear).
 
-Knowledge Streaming from LLMs to Environments
-- Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledgestreaming/)!
+**KV Cache Compression and Streaming for Multimodal Large Language Models (MLLMs)**
+
+**Knowledge Streaming from LLMs to Environments**  
+Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledgestreaming/)!
 
 
 ## Selected Publications
+
+- **Zhuohan Gu**, Jiayi Yao, Kuntai Du.
+**LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**
+**NeurIPS 2024** workshop on Machine Learning for Systems (to appear)
+
+- Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.
+**Optimization for Multi- Tenant Retrieval Augmented Generation Systems**
+OSDI 2025 (under review)
+
+- Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.
+**Transformer-based Predictions for Sudden Network Changes**
+**NSDI 2024** Poster Session
+
+<details>
+  <summary>All Publications</summary>
+
+  <!-- Content goes here -->
+  - **Zhuohan Gu**, Jiayi Yao, Kuntai Du.
+  **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**
+  **NeurIPS 2024** workshop on Machine Learning for Systems (to appear)
+  - Publication 2
+  - Publication 3
+
+</details>
 
 
 ## Education
 - B.S., University of Chicago, Mathematics and Computer Science, 2022-2025
 <!-- - High School Diploma, St. Anselm's Abbey School, Washington, DC, 2017–2020 -->
+
+## Selected Awards
+
+
 
 
 <!-- A data-driven personal website
