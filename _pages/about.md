@@ -40,7 +40,7 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 
 ## Selected Publications
 
-- **Zhuohan Gu**, Jiayi Yao, Kuntai Du.<br>
+- **Zhuohan Gu**, Jiayi Yao, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
 **NeurIPS 2024** workshop on Machine Learning for Systems (to appear) [[paper](https://neurips.cc/virtual/2024/workshop/84699)]
 
@@ -53,31 +53,32 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 **NSDI 2024** Poster Session [[paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
 
 
-<!-- ## All Publications
+## All Publications
 <details>
   <summary>Expand</summary>
 
-  **Zhuohan Gu**, Jiayi Yao, Kuntai Du.  
-  **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**  
+  <!-- Content goes here -->
+  - **Zhuohan Gu**, Jiayi Yao, Kuntai Du, Junchen Jiang.<br>
+  **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
   **NeurIPS 2024** workshop on Machine Learning for Systems (to appear) [[paper](https://neurips.cc/virtual/2024/workshop/84699)]
-
-  Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.  
-  **Optimization for Multi-Tenant Retrieval Augmented Generation Systems**  
+  
+  - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+  **Optimization for Multi- Tenant Retrieval Augmented Generation Systems**<br>
   **OSDI 2025** (under review)
+  
+  - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
+  **Transformer-based Predictions for Sudden Network Changes**<br>
+  **NSDI 2024** Poster Session [[paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
 
-  Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.  
-  **Transformer-based Predictions for Sudden Network Changes**  
-  **NSDI 2024** Poster Session [[PDF](https://siddhant-ray.github.io/assets/pdf/transformer_nsdi_poster.pdf)]
+  **Zhuohan Gu**, Dadu Chen.
+  **An Introduction to Loewner Energy**
+  **UChicago Math REU 2024** [paper]
 
-  **Zhuohan Gu**, Dadu Chen.  
-  **An Introduction to Loewner Energy**  
-  **UChicago Math REU 2024** [[paper](file:///Users/guzhuohan/Documents/REU%202024/REU_2024%20(3).pdf)]
-
-  **Zhuohan Gu**  
-  **A Study in Markov Chains, Loop-Erased Random Walk and Loop Soups**  
+  **Zhuohan Gu**
+  **A Study in Markov Chains, Loop-Erased Random Walk and Loop Soups**
   **UChicago Math REU 2024** [[paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
 
-</details> -->
+</details>
 
 
 ## Education
