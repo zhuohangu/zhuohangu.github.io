@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ![Editing a markdown file for a talk](/images/soccer_og.jpg){: .align-right width="300px"}
+*The Campus South Athletic Field*
 🎓 I'm a senior undergraduate at the University of Chicago studying Mathematics and Computer Science.
 
 👨‍💻 My primary research interests lie in computer systems and machine learning.
