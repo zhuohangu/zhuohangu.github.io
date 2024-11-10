@@ -23,6 +23,27 @@ I am fortunate to be advised by **Prof. Junchen Jiang** at the University of Chi
 
 I am looking for a PhD position starting in Fall 2025 and a research internship in Systems/ML for Summer 2025. Please feel free to reach out via email if you see a fit!
 
+## Recent Projects
+Resource allocation for Multi-Tenant Retrieval Augmented Generation Systems
+- Check it out [here](https://uchi-jcl.github.io/group-website/projects/ragoptimization/)!
+
+**LMCache**: Long-Context LLM Serving by Sharing Knowledge (KV Cache)
+- **[LMCache project](https://github.com/LMCache/LMCache)**, the first *open-source* Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster, at 8x lower cost by efficiently managing long documents (and other sources of knowledge)🚀.
+- Blog: [LMCache blog website](https://blog.lmcache.ai/)
+- Technical reports： **[CacheGen](https://arxiv.org/abs/2310.07240)**(SIGCOMM'24) and **[CacheBlend](https://arxiv.org/abs/2405.16444)**(EuroSys'25 to appear).
+
+KV Cache Compression and Streaming for Multimodal Large Language Models (MLLMs)
+
+Knowledge Streaming from LLMs to Environments
+- Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledgestreaming/)!
+
+
+## Selected Publications
+
+
+## Education
+- B.S., University of Chicago, Mathematics and Computer Science, 2022-2025
+<!-- - High School Diploma, St. Anselm's Abbey School, Washington, DC, 2017–2020 -->
 
 
 <!-- A data-driven personal website
