@@ -21,18 +21,18 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_1.jpg"
   name             : "Zhuohan (Joshua) Gu"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics and Comp Sci @ UChicago"
   location         : "Chicago, IL"
   employer         : "University of Chicago"
   uri              : # URL
-  email            : "zhuohan@uchicago.edu" 
+  email            : "zhuohan@uchicago.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
