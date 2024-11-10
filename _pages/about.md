@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Editing a markdown file for a talk](/images/soccer.png){: .align-right width="300px"}
+![Editing a markdown file for a talk](/images/soccer_og.jpg){: .align-right width="300px"}
 🎓 I'm a senior undergraduate at the University of Chicago studying Mathematics and Computer Science.
 
 👨‍💻 My primary research interests lie in computer systems and machine learning.
