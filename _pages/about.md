@@ -11,7 +11,6 @@ redirect_from:
   <img src="/images/soccer_og.jpg" alt="The Campus South Athletic Field" width="300px">
   <figcaption><em>The Campus South Athletic Field</em></figcaption>
 </div>
-<br />
 🎓 I'm a senior undergraduate at the University of Chicago studying Mathematics and Computer Science.
 
 👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency,
@@ -29,7 +28,7 @@ I am looking for a PhD position starting in Fall 2025 and a research internship 
 Check it out [here](https://uchi-jcl.github.io/group-website/projects/ragoptimization/)!
 
 **LMCache**: Long-Context LLM Serving by Sharing Knowledge (KV Cache)  
-- [LMCache project](https://github.com/LMCache/LMCache): The first *open-source* Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster at 8x lower cost by efficiently managing long documents (and other knowledge sources) 🚀.  
+- [LMCache project](https://github.com/LMCache/LMCache)🚀: The first *open-source* Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster at 8x lower cost by efficiently managing long documents (and other knowledge sources).  
 - Blog: [LMCache blog website](https://blog.lmcache.ai/)  
 - Technical reports: [CacheGen](https://arxiv.org/abs/2310.07240) (SIGCOMM'24) and [CacheBlend](https://arxiv.org/abs/2405.16444) (EuroSys'25 to appear).
 
@@ -41,27 +40,43 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 
 ## Selected Publications
 
-- **Zhuohan Gu**, Jiayi Yao, Kuntai Du.
-**LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**
-**NeurIPS 2024** workshop on Machine Learning for Systems (to appear)
+- **Zhuohan Gu**, Jiayi Yao, Kuntai Du.<br>
+**LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
+**NeurIPS 2024 workshop on Machine Learning for Systems (to appear)**
 
-- Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.
-**Optimization for Multi- Tenant Retrieval Augmented Generation Systems**
-OSDI 2025 (under review)
+- Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+**Optimization for Multi- Tenant Retrieval Augmented Generation Systems**<br>
+**OSDI 2025 (under review)**
 
-- Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.
-**Transformer-based Predictions for Sudden Network Changes**
-**NSDI 2024** Poster Session
+- Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
+**Transformer-based Predictions for Sudden Network Changes**<br>
+**NSDI 2024 Poster Session**
 
+
+## All Publications
 <details>
   <summary>All Publications</summary>
 
   <!-- Content goes here -->
-  - **Zhuohan Gu**, Jiayi Yao, Kuntai Du.
+  **Zhuohan Gu**, Jiayi Yao, Kuntai Du.
   **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**
   **NeurIPS 2024** workshop on Machine Learning for Systems (to appear)
-  - Publication 2
-  - Publication 3
+
+  Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+  **Optimization for Multi- Tenant Retrieval Augmented Generation Systems**<br>
+    **OSDI 2025 (under review)**
+  Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
+  **Transformer-based Predictions for Sudden Network Changes**<br>
+  **NSDI 2024 Poster Session** [[PDF](https://siddhant-ray.github.io/assets/pdf/transformer_nsdi_poster.pdf)]
+
+  **Zhuohan Gu**, Dadu Chen.
+  **An Introduction to Loewner Energy**
+  **UChicago Math REU 2024** [[paper](file:///Users/guzhuohan/Documents/REU%202024/REU_2024%20(3).pdf)]
+
+  **Zhuohan Gu**
+  **A Study in Markov Chains, Loop-Erased Random Walk and Loop Soups**
+  **UChicago Math REU 2024** [[paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
+
 
 </details>
 
