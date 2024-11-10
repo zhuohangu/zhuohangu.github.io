@@ -13,9 +13,17 @@ redirect_from:
 </div>
 🎓 I'm a senior undergraduate at the University of Chicago studying Mathematics and Computer Science.
 
-👨‍💻 My research interests lie broadly in computer systems and machine learning. I work on 1) systems for machine learning and machine learning for systems; 2) KV cache engineering, including KV cache compression and streaming; and 3) Retrieval- Augmented Generation (RAG)/GraphRAG systems optimization. I am also very interested in problems in networking, video analytics, distributed systems, cloud computing and datacenter systems, network security, and generative AI.
+👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency,
+affordability, and/or scalability.
 
-✏️📝 In mathematics, I have worked on probability theory, particularly the loop-erased random walk (LERW), Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE).
+✏️ Previously in mathematics, advised by Prof. Gregory Lawler and Jinwoo Sung, I worked on probability theory, particularly the loop-erased random walk (LERW), Loop Soups, Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE).
+
+I am fortunate to be advised by **Prof. Junchen Jiang** at the University of Chicago and to collaborate with Prof. Kexin Pei at UChicago, Prof. Ravi Netravali at Princeton, and Dr. Ganesh Ananthanarayanan at Microsoft.
+
+I am looking for a PhD position starting in Fall 2025 and a research internship in Systems/ML for Summer 2025. Please feel free to reach out via email if you see a fit!
+
+
+
 
 
 <!-- A data-driven personal website
