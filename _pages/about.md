@@ -93,7 +93,7 @@ _**NSDI 2024** Poster Session_ [[Poster](http://math.uchicago.edu/~may/REU2023/R
 - **Honor Roll** (maintained an overall academic average of 93% or above), Washington, D.C., US, 2018-20
 - **The Bijali Dutta Ghosh Book Award** (awarded for commitment to and ability in the Natural Sciences), Washington, D.C., US, 2020
 - **Goldberg Science Award** (for achievement in the sciences outside of school), Washington, D.C., US, 2020
-- **First Place Award, American Mathematics Competition (AMC) 12** (obtained the highest score at Saint Anselm’s Abbey School), Washington, D.C., US, 2019
+- **First Place Award, American Mathematics Competition (AMC) 12**, Washington, D.C., US, 2019
 
 
 ## Education
