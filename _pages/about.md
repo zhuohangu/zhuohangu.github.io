@@ -102,10 +102,10 @@ _**NSDI 2024** Poster Session_ [[Poster](http://math.uchicago.edu/~may/REU2023/R
 
 ## More About Me
 
-I grew up in Guangzhou and Hong Kong before moving to Washington, D.C. for high school.
-I speak English, Cantonese, and Mandarin fluently, and a little bit of Hakka and Spanish.
-I love piano and classical music. A lot. For piano, I mainly play Beethoven and Chopin, and sometimes Mozart.
-I love sports. Also a lot. I played varsity soccer and basketball in high school, and I follow all kinds of sports, from soccer and basketball to tennis, golf, etc. I am a fan of Borussia Dortmund💛🖤.
+I grew up in Guangzhou and Hong Kong before moving to Washington, D.C. for high school.<br>
+I speak English, Cantonese, and Mandarin fluently, and a little bit of Hakka and Spanish.<br>
+I love piano and classical music. A lot. For piano, I mainly play Beethoven and Chopin, and sometimes Mozart.<br>
+I love sports. Also a lot. I played varsity soccer and basketball in high school, and I follow all kinds of sports, from soccer and basketball to tennis, golf, etc. I am a fan of Borussia Dortmund💛🖤.<br>
 I also loves movies, astronomy, food, etc.
 
 _To be continued…_
