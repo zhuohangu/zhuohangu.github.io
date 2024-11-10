@@ -42,15 +42,15 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 
 - **Zhuohan Gu**, Jiayi Yao, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
-**NeurIPS 2024** workshop on Machine Learning for Systems (to appear) [[paper](https://neurips.cc/virtual/2024/workshop/84699)]
+_**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[paper](https://neurips.cc/virtual/2024/workshop/84699)]
 
 - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
 **Optimization for Multi- Tenant Retrieval Augmented Generation Systems**<br>
-**OSDI 2025** (under review)
+_**OSDI 2025**_ (under review)
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
 **Transformer-based Predictions for Sudden Network Changes**<br>
-**NSDI 2024** Poster Session [[paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
+_**NSDI 2024** Poster Session_ [[paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
 
 
 <h2>All Publications</h2>
@@ -59,22 +59,22 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
   <ul>
     <li><strong>Zhuohan Gu</strong>, Jiayi Yao, Kuntai Du, Junchen Jiang.<br>
       <strong>LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts</strong><br>
-      <em>NeurIPS 2024</em> workshop on Machine Learning for Systems (to appear)
+      <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em> (to appear)
       <a href="https://neurips.cc/virtual/2024/workshop/84699">[paper]</a>
     </li>
     <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
       <strong>Optimization for Multi-Tenant Retrieval Augmented Generation Systems</strong><br>
-      <em>OSDI 2025</em> (under review)
+      <em><strong>OSDI 2025</strong></em> (under review)
     </li>
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
       <strong>Transformer-based Predictions for Sudden Network Changes</strong><br>
-      <em>NSDI 2024</em> Poster Session
+      <em><strong>NSDI 2024</strong> Poster Session</em>
       <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[paper]</a>
     </li>
     <li><strong>Zhuohan Gu</strong>, Dadu Chen.<br>
       <strong>An Introduction to Loewner Energy</strong><br>
-      <em>UChicago Math REU 2024</em>
-      <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[paper]</a>
+      <em>UChicago Math REU 2024</em> (under review)
+      <a href="https://github.com/zhuohangu/zhuohangu.github.io/blob/master/files/REU_2024.pdf">[paper]</a>
     </li>
     <li><strong>Zhuohan Gu</strong>.<br>
       <strong>A Study in Markov Chains, Loop-Erased Random Walk, and Loop Soups</strong><br>
@@ -91,6 +91,18 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 <!-- - High School Diploma, St. Anselm's Abbey School, Washington, DC, 2017–2020 -->
 
 ## Selected Awards
+
+- **Quad Undergraduate Research Conference Grant** (supports faculty-mentored undergraduate participation in presenting papers at academic conferences), Chicago, IL, 10/2024
+
+- **Jeff Metcalf Fellowship Grant** (supports students' career goals and offsets living expenses during internships), Chicago, IL, 05/2024
+
+- **Honor Roll** (maintained an overall academic average of 93% or above), Washington, D.C., US, 2018-20
+
+- **The Bijali Dutta Ghosh Book Award** (awarded for commitment to and ability in the Natural Sciences), Washington, D.C., US, 2020
+
+- **Goldberg Science Award** (for achievement in the sciences outside of school), Washington, D.C., US, 2020
+
+- **First Place Award, American Mathematics Competition (AMC) 12** (obtained the highest score at Saint Anselm’s Abbey School), Washington, D.C., US, 2019
 
 
 <!-- A data-driven personal website
