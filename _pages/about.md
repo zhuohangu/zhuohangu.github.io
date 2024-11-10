@@ -13,11 +13,9 @@ redirect_from:
 </div>
 🎓 I'm a senior undergraduate at the University of Chicago studying Mathematics and Computer Science.
 
-👨‍💻 My research interests lie broadly in mathematics, computer systems, and machine learning. In mathematics, I have worked on probability theory, particularly the loop-erased random walk (LERW), Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE). In computer science, I work on
-1) Systems for machine learning and machine learning for systems  
-2) KV cache engineering, including KV cache compression and streaming  
-3) Retrieval-Augmented Generation (RAG) and GraphRAG systems optimization  
-I am also very interested in challenges in networking, video analytics, distributed systems, cloud computing and datacenter systems, network security, and generative AI.
+👨‍💻 My research interests lie broadly in computer systems and machine learning. I work on 1) systems for machine learning and machine learning for systems; 2) KV cache engineering, including KV cache compression and streaming; and 3) Retrieval- Augmented Generation (RAG)/GraphRAG systems optimization. I am also very interested in problems in networking, video analytics, distributed systems, cloud computing and datacenter systems, network security, and generative AI.
+
+✏️📝 In mathematics, I have worked on probability theory, particularly the loop-erased random walk (LERW), Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE).
 
 
 <!-- A data-driven personal website
