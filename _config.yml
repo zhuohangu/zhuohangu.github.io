@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_1.png"
+  avatar           : " images/profile_1.png"
   name             : "Zhuohan (Joshua) Gu"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics and Comp Sci @ UChicago"
@@ -84,7 +84,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   : "profile_1.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
