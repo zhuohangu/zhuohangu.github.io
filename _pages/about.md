@@ -39,28 +39,29 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 
 
 ## Selected Publications
+*: Equal Contribution.
 
-- **Zhuohan Gu**, Jiayi Yao, Kuntai Du, Junchen Jiang.<br>
+- **Zhuohan Gu**<sup>*</sup>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
-_**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[paper](https://neurips.cc/virtual/2024/workshop/84699)]
+_**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](https://neurips.cc/virtual/2024/workshop/84699)]
 
 - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-**Optimization for Multi- Tenant Retrieval Augmented Generation Systems**<br>
+**Optimization for Multi-Tenant Retrieval Augmented Generation Systems**<br>
 _**OSDI 2025**_ (under review)
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
 **Transformer-based Predictions for Sudden Network Changes**<br>
-_**NSDI 2024** Poster Session_ [[paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
+_**NSDI 2024** Poster Session_ [[Paper](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
 
 
 <h2>All Publications</h2>
 <details>
   <summary>Expand</summary>
   <ul>
-    <li><strong>Zhuohan Gu</strong>, Jiayi Yao, Kuntai Du, Junchen Jiang.<br>
+    <li><strong>Zhuohan Gu<sup>*</sup></strong>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
       <strong>LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts</strong><br>
       <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em> (to appear)
-      <a href="https://neurips.cc/virtual/2024/workshop/84699">[paper]</a>
+      <a href="https://neurips.cc/virtual/2024/workshop/84699">[Paper]</a>
     </li>
     <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
       <strong>Optimization for Multi-Tenant Retrieval Augmented Generation Systems</strong><br>
@@ -69,26 +70,21 @@ _**NSDI 2024** Poster Session_ [[paper](http://math.uchicago.edu/~may/REU2023/RE
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
       <strong>Transformer-based Predictions for Sudden Network Changes</strong><br>
       <em><strong>NSDI 2024</strong> Poster Session</em>
-      <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[paper]</a>
+      <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[Poster]</a>
     </li>
     <li><strong>Zhuohan Gu</strong>, Dadu Chen.<br>
       <strong>An Introduction to Loewner Energy</strong><br>
       <em>UChicago Math REU 2024</em> (under review)
-      <a href="https://github.com/zhuohangu/zhuohangu.github.io/blob/master/files/REU_2024.pdf">[paper]</a>
+      <a href="https://github.com/zhuohangu/zhuohangu.github.io/blob/master/files/REU_2024.pdf">[Paper]</a>
     </li>
     <li><strong>Zhuohan Gu</strong>.<br>
       <strong>A Study in Markov Chains, Loop-Erased Random Walk, and Loop Soups</strong><br>
       <em>UChicago Math REU 2024</em>
-      <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[paper]</a>
+      <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[Paper]</a>
     </li>
   </ul>
 </details>
 
-
-
-## Education
-- B.S., University of Chicago, Mathematics and Computer Science, 2022-2025
-<!-- - High School Diploma, St. Anselm's Abbey School, Washington, DC, 2017–2020 -->
 
 ## Selected Awards
 
@@ -103,6 +99,12 @@ _**NSDI 2024** Poster Session_ [[paper](http://math.uchicago.edu/~may/REU2023/RE
 - **Goldberg Science Award** (for achievement in the sciences outside of school), Washington, D.C., US, 2020
 
 - **First Place Award, American Mathematics Competition (AMC) 12** (obtained the highest score at Saint Anselm’s Abbey School), Washington, D.C., US, 2019
+
+## Education
+- B.S., University of Chicago, Mathematics and Computer Science, 2022-2025
+<!-- - High School Diploma, St. Anselm's Abbey School, Washington, DC, 2017–2020 -->
+
+
 
 
 <!-- A data-driven personal website
