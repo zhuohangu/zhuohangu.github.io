@@ -11,6 +11,7 @@ redirect_from:
   <img src="/images/soccer_og.jpg" alt="The Campus South Athletic Field" width="300px">
   <figcaption><em>The Campus South Athletic Field</em></figcaption>
 </div>
+
 🎓 I'm a senior undergraduate at the University of Chicago studying Mathematics and Computer Science.
 
 👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency,
