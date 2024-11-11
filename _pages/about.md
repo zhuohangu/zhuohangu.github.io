@@ -22,13 +22,13 @@ redirect_from:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%;">
 
   <div style="flex: 1 1 150px; max-width: 300px; text-align: center;">
-    <img src="/images/soccer_og.jpg" alt="The Campus South Athletic Field" style="width: 100%; height: auto;">
+    <img src="/images/soccer_og.jpg" alt="The Campus South Athletic Field" style="width: auto; height: 200px;">
     <figcaption><em>The Campus South Athletic Field</em></figcaption>
   </div>
 
   <div style="flex: 1 1 150px; max-width: 300px; text-align: center;">
-    <img src="/images/ox_quad.jpg" alt="Quod Restaurant & Bar, 92-94 High St, Oxford, Oxfordshire, OX1 4BJ" style="width: 100%; height: auto;">
-    <figcaption><em>Another Image Description</em></figcaption>
+    <img src="/images/ox_quad.jpg" alt="Quod" style="width: auto; height: 200px;">
+    <figcaption><em>Quod Restaurant & Bar, 92-94 High St, Oxford, Oxfordshire, OX1 4BJ</em></figcaption>
   </div>
 
 </div>
