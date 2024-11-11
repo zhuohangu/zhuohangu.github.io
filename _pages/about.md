@@ -74,7 +74,7 @@ _**OSDI 2025**_ (under review)
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
 **Transformer-based Predictions for Sudden Network Changes**<br>
-_**NSDI 2024** Poster Session_ [[Poster](http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf)]
+_**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/pdf/transformer_nsdi_poster.pdf)]
 
 
 <h2>All Publications</h2>
@@ -93,7 +93,7 @@ _**NSDI 2024** Poster Session_ [[Poster](http://math.uchicago.edu/~may/REU2023/R
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
       <strong>Transformer-based Predictions for Sudden Network Changes</strong><br>
       <em><strong>NSDI 2024</strong> Poster Session</em>
-      <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[Poster]</a>
+      <a href="https://siddhant-ray.github.io/assets/pdf/transformer_nsdi_poster.pdf">[Poster]</a>
     </li>
     <li><strong>Zhuohan Gu</strong>, Dadu Chen.<br>
       <strong>An Introduction to Loewner Energy</strong><br>
