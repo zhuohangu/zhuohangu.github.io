@@ -15,9 +15,22 @@ redirect_from:
   <img src="/images/soccer_og.jpg" alt="The Campus South Athletic Field" style="width: 100%; max-width: 300px; height: auto;">
   <figcaption><em>The Campus South Athletic Field</em></figcaption>
 </div> -->
-<div style="text-align: center; max-width: 100%; margin: auto;">
+<!-- <div style="text-align: center; max-width: 100%; margin: auto;">
   <img src="/images/soccer_og.jpg" alt="The Campus South Athletic Field" style="width: 100%; max-width: 300px; height: auto;">
   <figcaption><em>The Campus South Athletic Field</em></figcaption>
+</div> -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%;">
+
+  <div style="flex: 1 1 150px; max-width: 300px; text-align: center;">
+    <img src="/images/soccer_og.jpg" alt="The Campus South Athletic Field" style="width: 100%; height: auto;">
+    <figcaption><em>The Campus South Athletic Field</em></figcaption>
+  </div>
+
+  <div style="flex: 1 1 150px; max-width: 300px; text-align: center;">
+    <img src="/images/ox_quad.jpg" alt="Quod Restaurant & Bar, 92-94 High St, Oxford, Oxfordshire, OX1 4BJ" style="width: 100%; height: auto;">
+    <figcaption><em>Another Image Description</em></figcaption>
+  </div>
+
 </div>
 🎓 I'm a senior undergraduate at the University of Chicago studying Mathematics and Computer Science.
 
