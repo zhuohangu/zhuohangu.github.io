@@ -34,6 +34,8 @@ redirect_from:
 </div>
 🎓 I'm a senior undergraduate at the University of Chicago studying Mathematics and Computer Science.
 
+## Research
+
 👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency,
 affordability, and/or scalability.
 
