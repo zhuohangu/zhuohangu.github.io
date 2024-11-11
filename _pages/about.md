@@ -23,7 +23,7 @@ redirect_from:
 
   <div style="flex: 1 1 150px; max-width: 300px; text-align: center;">
     <img src="/images/soccer_og.jpg" alt="The Campus South Athletic Field" style="width: auto; height: 200px;">
-    <figcaption><em>The Campus South Athletic Field</em></figcaption>
+    <figcaption><em>The Campus South Athletic Field, Chicago, IL</em></figcaption>
   </div>
 
   <div style="flex: 1 1 150px; max-width: 300px; text-align: center;">
