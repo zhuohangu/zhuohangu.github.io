@@ -97,12 +97,12 @@ _**NSDI 2024** Poster Session_ [[Poster](http://math.uchicago.edu/~may/REU2023/R
     </li>
     <li><strong>Zhuohan Gu</strong>, Dadu Chen.<br>
       <strong>An Introduction to Loewner Energy</strong><br>
-      <em>UChicago Math REU 2023</em> (under review)
+      <em>UChicago Math REU 2024</em> (under review)
       <a href="https://github.com/zhuohangu/zhuohangu.github.io/blob/master/files/REU_2024.pdf">[Paper]</a>
     </li>
     <li><strong>Zhuohan Gu</strong>.<br>
       <strong>A Study in Markov Chains, Loop-Erased Random Walk, and Loop Soups</strong><br>
-      <em>UChicago Math REU 2024</em>
+      <em>UChicago Math REU 2023</em>
       <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[Paper]</a>
     </li>
   </ul>
