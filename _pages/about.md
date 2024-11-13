@@ -98,7 +98,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     <li><strong>Zhuohan Gu</strong>, Dadu Chen.<br>
       <strong>An Introduction to Loewner Energy</strong><br>
       <em>UChicago Math REU 2024</em> (under review)
-      <a href="https://github.com/zhuohangu/zhuohangu.github.io/blob/master/files/REU_2024.pdf">[Paper]</a>
+      <a href="https://zhuohangu.github.io/files/REU_2024.pdf">[Paper]</a>
     </li>
     <li><strong>Zhuohan Gu</strong>.<br>
       <strong>A Study in Markov Chains, Loop-Erased Random Walk, and Loop Soups</strong><br>
@@ -132,15 +132,6 @@ I love sports. Also a lot. I played varsity soccer and basketball in high school
 I also love watching movies, astronomy, food, etc.
 
 _To be continued…_
-
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec" style="width: 50px; height: 50px;"></script>
-
-&copy; <span id="year"></span> Zhuohan Gu.
-
-<script>
-  document.getElementById("year").textContent = new Date().getFullYear();
-</script>
 
 
 
