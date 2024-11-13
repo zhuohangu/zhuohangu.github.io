@@ -134,7 +134,14 @@ I also love watching movies, astronomy, food, etc.
 _To be continued…_
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec" style="width: 50px; height: 50px;"></script>
+
+&copy; <span id="year"></span> Zhuohan Gu.
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
 
 
 <!-- A data-driven personal website
