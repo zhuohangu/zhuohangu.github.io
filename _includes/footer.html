@@ -20,15 +20,12 @@
 {% endif %}
 
 <div class="page__footer-copyright">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"></script>
-    <style>
-        #clstr_globe {
-            width: 20px; /* Adjust size as needed */
-            height: 20px;
-            display: inline-block;
-            vertical-align: middle;
-        }
-    </style>
+    <iframe
+        src="//clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"
+        width="50"
+        height="50"
+        style="display: inline-block; vertical-align: middle; border: none;">
+    </iframe>
     &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-    Site last updated {{ "now" | date: '%Y-%m-%d' %}}
+    Site last updated {{ "now" | date: '%Y-%m' %}}
 </div>
