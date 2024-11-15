@@ -20,17 +20,12 @@
 {% endif %} -->
 
 <div class="page__footer-copyright">
-    <div class="row">
-        <div class="stat" style="transform: scale(0.08); transform-origin: left top;">
-            <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"></script>
-        </div>
-        &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, 
-        {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
-        <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
-        <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>,
-        a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
-        <br />
-    </div>
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, 
+    {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
+    <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
+    <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>,
+    a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+    <br />
     Site last updated {{ "now" | date: '%Y-%m' }}
 </div>
 
@@ -41,4 +36,3 @@
         margin-bottom: -800px; /* Adjust this value based on your needs */
     }
     </style>
-
