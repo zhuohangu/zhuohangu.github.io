@@ -134,7 +134,7 @@ I also love watching movies, astronomy, food, etc.
 _To be continued…_
 
 
-<div class="stat" style="transform: scale(0.08); transform-origin: left top; overflow: hidden; height: 50px;">
+<div class="stat" style="transform: scale(0.08); transform-origin: left top; overflow: hidden; height: 1000px;">
     <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"></script>
 </div>
 
