@@ -141,6 +141,7 @@ _To be continued…_
     .stat {
         margin: 0;
         padding: 0;
+        margin-bottom: -300px
     }
 </style>
 
