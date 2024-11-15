@@ -1,6 +1,6 @@
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+<!-- {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -17,15 +17,19 @@
     {% endif %}
   </ul>
 </div>
-{% endif %}
+{% endif %} -->
 
 <div class="page__footer-copyright">
-    <iframe
-        src="//clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"
-        width="50"
-        height="50"
-        style="display: inline-block; vertical-align: middle; border: none;">
-    </iframe>
-    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
+    <div class="row">
+        <div class="stat">
+            <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"></script>
+        </div>
+        &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, 
+        {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} 
+        <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; 
+        <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, 
+        a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+        <br />
+    </div>
     Site last updated {{ "now" | date: '%Y-%m' %}}
 </div>
