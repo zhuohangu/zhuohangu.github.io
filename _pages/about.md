@@ -134,9 +134,15 @@ I also love watching movies, astronomy, food, etc.
 _To be continued…_
 
 
-<div class="stat" style="transform: scale(0.08); transform-origin: left top; margin: 0; padding: 0;">
+<div class="stat" style="transform: scale(0.08); transform-origin: left top;">
     <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"></script>
 </div>
+
+<style>
+    .stat {
+        margin-bottom: -800px;
+    }
+</style>
 
 
 
