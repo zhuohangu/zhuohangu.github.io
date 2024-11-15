@@ -133,9 +133,10 @@ I also love watching movies, astronomy, food, etc.
 
 _To be continued…_
 
-
-<div class="stat" style="transform: scale(0.08); transform-origin: center;">
-    <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"></script>
+<div style="width: 200px; height: 200px; overflow: hidden;">
+    <div class="stat" style="transform: scale(0.08); transform-origin: center;">
+        <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"></script>
+    </div>
 </div>
 
 <!-- <style>
