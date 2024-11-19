@@ -68,7 +68,7 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
 _**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](http://mlforsystems.org/assets/papers/neurips2024/paper26.pdf)]
 
-- Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+- Siddhant Ray, **Zhuohan Gu**, Rui Pan, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
 **Proteus: Query-Aware Configuration Adaptation for Efficient RAG Serving**<br>
 _**OSDI 2025**_ (under review)
 
@@ -86,7 +86,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
       <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em> (to appear)
       <a href="http://mlforsystems.org/assets/papers/neurips2024/paper26.pdf">[Paper]</a>
     </li>
-    <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+    <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Rui Pan, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
       <strong>Proteus: Query-Aware Configuration Adaptation for Efficient RAG Serving</strong><br>
       <em><strong>OSDI 2025</strong></em> (under review)
     </li>
