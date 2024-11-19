@@ -69,7 +69,7 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 _**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](http://mlforsystems.org/assets/papers/neurips2024/paper26.pdf)]
 
 - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-**Optimization for Multi-Tenant Retrieval Augmented Generation Systems**<br>
+**Proteus: Query-Aware Configuration Adaptation for Efficient RAG Serving**<br>
 _**OSDI 2025**_ (under review)
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
@@ -87,7 +87,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
       <a href="http://mlforsystems.org/assets/papers/neurips2024/paper26.pdf">[Paper]</a>
     </li>
     <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-      <strong>Optimization for Multi-Tenant Retrieval Augmented Generation Systems</strong><br>
+      <strong>Proteus: Query-Aware Configuration Adaptation for Efficient RAG Serving</strong><br>
       <em><strong>OSDI 2025</strong></em> (under review)
     </li>
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
