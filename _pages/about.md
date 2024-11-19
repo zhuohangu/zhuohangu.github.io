@@ -97,7 +97,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     </li>
     <li><strong>Zhuohan Gu</strong>, Dadu Chen.<br>
       <strong>An Introduction to Loewner Energy</strong><br>
-      <em>UChicago Math REU 2024</em> (under review)
+      <em>UChicago Math REU 2024</em>
       <a href="https://zhuohangu.github.io/files/REU_2024.pdf">[Paper]</a>
     </li>
     <li><strong>Zhuohan Gu</strong>.<br>
