@@ -66,7 +66,7 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 
 - **Zhuohan Gu**<sup>*</sup>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
-_**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](https://neurips.cc/virtual/2024/workshop/84699)]
+_**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](http://mlforsystems.org/assets/papers/neurips2024/paper26.pdf)]
 
 - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
 **Optimization for Multi-Tenant Retrieval Augmented Generation Systems**<br>
@@ -84,7 +84,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     <li><strong>Zhuohan Gu<sup>*</sup></strong>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
       <strong>LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts</strong><br>
       <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em> (to appear)
-      <a href="https://neurips.cc/virtual/2024/workshop/84699">[Paper]</a>
+      <a href="http://mlforsystems.org/assets/papers/neurips2024/paper26.pdf">[Paper]</a>
     </li>
     <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
       <strong>Optimization for Multi-Tenant Retrieval Augmented Generation Systems</strong><br>
