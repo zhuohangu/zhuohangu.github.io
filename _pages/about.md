@@ -66,7 +66,7 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 
 - **Zhuohan Gu**<sup>*</sup>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
-_**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](http://mlforsystems.org/assets/papers/neurips2024/paper26.pdf)]
+_**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](https://arxiv.org/abs/2411.13009)]
 
 - Siddhant Ray, **Zhuohan Gu**, Rui Pan, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
 **Proteus: Query-Aware Configuration Adaptation for Efficient RAG Serving**<br>
@@ -84,7 +84,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     <li><strong>Zhuohan Gu<sup>*</sup></strong>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
       <strong>LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts</strong><br>
       <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em> (to appear)
-      <a href="http://mlforsystems.org/assets/papers/neurips2024/paper26.pdf">[Paper]</a>
+      <a href="https://arxiv.org/abs/2411.13009">[Paper]</a>
     </li>
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Rui Pan, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
       <strong>Proteus: Query-Aware Configuration Adaptation for Efficient RAG Serving</strong><br>
@@ -103,7 +103,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     <li><strong>Zhuohan Gu</strong>.<br>
       <strong>A Study in Markov Chains, Loop-Erased Random Walk, and Loop Soups</strong><br>
       <em>UChicago Math REU 2023</em>
-      <a href="http://math.uchicago.edu/~may/REU2023/REUPapers/Gu,Zhuohan.pdf">[Paper]</a>
+      <a href="https://arxiv.org/abs/2411.09988">[Paper]</a>
     </li>
   </ul>
 </details>
