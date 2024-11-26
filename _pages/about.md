@@ -41,7 +41,7 @@ affordability, and/or scalability.
 
 ✏️ Previously in mathematics, advised by Prof. Gregory Lawler and Jinwoo Sung, I worked on probability theory, particularly the loop-erased random walk (LERW), Loop Soups, Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE).
 
-I am fortunate to be advised by **Prof. Junchen Jiang** at the University of Chicago and to collaborate with Prof. Kexin Pei at UChicago, Prof. Ravi Netravali at Princeton, and Dr. Ganesh Ananthanarayanan at Microsoft.
+I am fortunate to be advised by **Prof. Junchen Jiang** at the University of Chicago and to collaborate with Prof. Kexin Pei at UChicago, Prof. Ravi Netravali at Princeton, and Dr. Ganesh Ananthanarayanan at Microsoft Research.
 
 I am looking for a PhD position starting in Fall 2025 and a research internship in Systems/ML for Summer 2025. Please feel free to reach out via email if you see a fit!
 
