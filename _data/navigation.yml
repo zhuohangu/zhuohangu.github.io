@@ -16,6 +16,9 @@ main:
   
   - title: "Group"
     url: https://uchi-jcl.github.io/group-website/
+  
+  - title: "KV Cache Size Calculator"
+    url: https://lmcache.ai/kv_cache_calculator.html
 
   # - title: "Teaching"
   #   url: /teaching/    
