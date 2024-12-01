@@ -24,9 +24,7 @@ author:
   avatar           : "profile_1.png"
   name             : "Zhuohan (Joshua) Gu"
   pronouns         : # example: "she/her"  
-  bio              : |
-    Mathematics and Comp Sci @ UChicago
-    zhuohan [at] uchicago [dot] edu
+  bio              : "Mathematics and Comp Sci @ UChicago<br>zhuohan [at] uchicago [dot] edu"
   location         : "Chicago, IL"
   employer         : "University of Chicago"
   uri              : # URL
