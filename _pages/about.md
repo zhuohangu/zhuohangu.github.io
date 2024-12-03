@@ -70,7 +70,8 @@ _**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper]
 
 - Siddhant Ray, **Zhuohan Gu**, Rui Pan, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
 **Proteus: Query-Aware Configuration Adaptation for Efficient RAG Serving**<br>
-_**OSDI 2025**_ (under review)
+(Under review at a major operating systems conference)
+<!-- _**OSDI 2025**_ (under review) -->
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
 **Transformer-based Predictions for Sudden Network Changes**<br>
@@ -88,7 +89,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     </li>
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Rui Pan, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
       <strong>Proteus: Query-Aware Configuration Adaptation for Efficient RAG Serving</strong><br>
-      <em><strong>OSDI 2025</strong></em> (under review)
+      <em><strong></strong></em> (Under review at a major operating systems conference)
     </li>
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
       <strong>Transformer-based Predictions for Sudden Network Changes</strong><br>
