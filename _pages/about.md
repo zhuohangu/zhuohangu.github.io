@@ -88,7 +88,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
   <ul>
     <li>Yuhan Liu, Yuyang Huang, Jiayi Yao, <strong>Zhuohan Gu</strong>, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
       <strong>CacheSync: Efficient Context Sharing for Serving Multiple Large Language Model Variants</strong><br>
-      <em><strong>Under review at a major operating systems conference</em>
+      <em>Under review at a major operating systems conference</em>
     </li>
     <li><strong>Zhuohan Gu<sup>*</sup></strong>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
       <strong>LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts</strong><br>
