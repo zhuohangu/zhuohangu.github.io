@@ -64,6 +64,10 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 ## Selected Publications
 *: Equal Contribution.
 
+- Yuhan Liu, Yuyang Huang, Jiayi Yao, **Zhuohan Gu**, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
+**CacheSync: Efficient Context Sharing for Serving Multiple Large Language Model Variants**<br>
+_Under review at a major operating systems conference_
+
 - **Zhuohan Gu**<sup>*</sup>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
 _**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](https://arxiv.org/abs/2411.13009)]
@@ -82,6 +86,10 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
 <details>
   <summary>Expand</summary>
   <ul>
+    <li>Yuhan Liu, Yuyang Huang, Jiayi Yao, <strong>Zhuohan Gu</strong>, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
+      <strong>CacheSync: Efficient Context Sharing for Serving Multiple Large Language Model Variants</strong><br>
+      <em><strong>Under review at a major operating systems conference</em>
+    </li>
     <li><strong>Zhuohan Gu<sup>*</sup></strong>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
       <strong>LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts</strong><br>
       <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em> (to appear)
