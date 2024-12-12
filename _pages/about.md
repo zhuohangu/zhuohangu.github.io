@@ -72,10 +72,10 @@ _Under review at a major operating systems conference_
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
 _**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](https://arxiv.org/abs/2411.13009)]
 
-- Siddhant Ray, **Zhuohan Gu**, Rui Pan, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-**Proteus: Query-Aware Configuration Adaptation for Efficient RAG Serving**<br>
-<!-- _Under review at a major operating systems conference_ -->
-_**OSDI 2025**_ (under review)
+- Siddhant Ray, **Zhuohan Gu**, Rui Pan, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+**METIS: Adaptive RAG Systems for Better Quality and Faster**<br>
+_Under review at a major operating systems conference_
+<!-- _**OSDI 2025**_ (under review) -->
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
 **Transformer-based Predictions for Sudden Network Changes**<br>
@@ -95,10 +95,10 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
       <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em> (to appear)
       <a href="https://arxiv.org/abs/2411.13009">[Paper]</a>
     </li>
-    <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Rui Pan, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-      <strong>Proteus: Query-Aware Configuration Adaptation for Efficient RAG Serving</strong><br>
-      <em><strong>OSDI 2025</strong></em> (under review)
-      <!-- <em><strong></strong>Under review at a major operating systems conference</em> -->
+    <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Rui Pan, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+      <strong>METIS: Adaptive RAG Systems for Better Quality and Faster</strong><br>
+      <!-- <em><strong>OSDI 2025</strong></em> (under review) -->
+      <em><strong></strong>Under review at a major operating systems conference</em>
     </li>
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
       <strong>Transformer-based Predictions for Sudden Network Changes</strong><br>
