@@ -72,8 +72,8 @@ _Under review at a major operating systems conference_
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
 _**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](https://arxiv.org/abs/2411.13009)]
 
-- Siddhant Ray, **Zhuohan Gu**, Rui Pan, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-**METIS: Adaptive RAG Systems for Better Quality and Faster**<br>
+- Siddhant Ray, Rui Pan, **Zhuohan Gu**, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+**METIS: Adaptive RAG Systems for Better Quality and Faster Response**<br>
 _Under review at a major operating systems conference_
 <!-- _**OSDI 2025**_ (under review) -->
 
@@ -95,8 +95,8 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
       <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em> (to appear)
       <a href="https://arxiv.org/abs/2411.13009">[Paper]</a>
     </li>
-    <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Rui Pan, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-      <strong>METIS: Adaptive RAG Systems for Better Quality and Faster</strong><br>
+    <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+      <strong>METIS: Adaptive RAG Systems for Better Quality and Faster Response</strong><br>
       <!-- <em><strong>OSDI 2025</strong></em> (under review) -->
       <em><strong></strong>Under review at a major operating systems conference</em>
     </li>
