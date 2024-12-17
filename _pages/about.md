@@ -96,9 +96,10 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
       [<a href="https://arxiv.org/abs/2411.13009">Paper</a> / <a href="https://zhuohangu.github.io/files/NeurIPS2024_poster.pdf">Poster</a>]
     </li>
     <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-      <strong>METIS: Adaptive RAG Systems for Better Quality and Faster Response</strong><br>
+      <strong>RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation</strong><br>
       <!-- <em><strong>OSDI 2025</strong></em> (under review) -->
       <em><strong></strong>Under review at a major operating systems conference</em>
+      <a href="https://arxiv.org/abs/2412.10543">[Poster]</a>
     </li>
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
       <strong>Transformer-based Predictions for Sudden Network Changes</strong><br>
