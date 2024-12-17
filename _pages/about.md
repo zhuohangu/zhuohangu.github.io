@@ -52,7 +52,7 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/ragoptimiz
 
 🚀**LMCache**: Long-Context LLM Serving by Sharing Knowledge (KV Cache)  
 - [LMCache project](https://github.com/LMCache/LMCache): The first *open-source* Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster at 8x lower cost by efficiently managing long documents (and other knowledge sources).  
-- Blog: [LMCache blog website](https://blog.lmcache.ai/)  
+- Website: [LMCache website](https://lmcache.ai/)  
 - Technical reports: [CacheGen](https://arxiv.org/abs/2310.07240) (SIGCOMM'24) and [CacheBlend](https://arxiv.org/abs/2405.16444) (EuroSys'25 to appear).
 
 🚀**KV Cache Compression and Streaming for Multimodal Large Language Models (MLLMs)**
