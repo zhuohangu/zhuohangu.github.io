@@ -70,7 +70,7 @@ _**Under review** at a major operating systems conference_
 
 - **Zhuohan Gu**<sup>*</sup>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
-_**NeurIPS 2024** workshop on Machine Learning for Systems_ [[Paper](https://arxiv.org/abs/2411.13009) / [Poster]("files/NeurIPS2024_poster.pdf")]
+_**NeurIPS 2024** workshop on Machine Learning for Systems_ [[Paper](https://arxiv.org/abs/2411.13009) / [Poster](https://zhuohangu.github.io/files/NeurIPS2024_poster.pdf)]
 
 - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
 **RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation**<br>
