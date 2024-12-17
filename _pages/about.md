@@ -93,7 +93,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     <li><strong>Zhuohan Gu<sup>*</sup></strong>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
       <strong>LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts</strong><br>
       <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em>
-      [<a href="https://arxiv.org/abs/2411.13009">Paper</a> <a href="https://zhuohangu.github.io/files/NeurIPS2024_poster.pdf">Poster</a>]
+      [<a href="https://arxiv.org/abs/2411.13009">Paper</a> / <a href="https://zhuohangu.github.io/files/NeurIPS2024_poster.pdf">Poster</a>]
     </li>
     <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
       <strong>METIS: Adaptive RAG Systems for Better Quality and Faster Response</strong><br>
