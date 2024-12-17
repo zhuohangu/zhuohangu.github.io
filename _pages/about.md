@@ -99,12 +99,12 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
       <strong>RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation</strong><br>
       <!-- <em><strong>OSDI 2025</strong></em> (under review) -->
       <em><strong>Under review</strong> at a major operating systems conference</em>
-      <a href="https://arxiv.org/abs/2412.10543">[Poster]</a>
+      <a href="https://arxiv.org/abs/2412.10543">[Paper]</a>
     </li>
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
       <strong>Transformer-based Predictions for Sudden Network Changes</strong><br>
       <em><strong>NSDI 2024</strong> Poster Session</em>
-      <a href="https://siddhant-ray.github.io/assets/pdf/transformer_nsdi_poster.pdf">[Paper]</a>
+      <a href="https://siddhant-ray.github.io/assets/pdf/transformer_nsdi_poster.pdf">[Poster]</a>
     </li>
     <li><strong>Zhuohan Gu</strong>, Dadu Chen.<br>
       <strong>An Introduction to Loewner Energy</strong><br>
