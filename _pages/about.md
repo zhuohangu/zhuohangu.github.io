@@ -70,11 +70,11 @@ _Under review at a major operating systems conference_
 
 - **Zhuohan Gu**<sup>*</sup>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
-_**NeurIPS 2024** workshop on Machine Learning for Systems_ (to appear) [[Paper](https://arxiv.org/abs/2411.13009)]
+_**NeurIPS 2024** workshop on Machine Learning for Systems_ [[Paper](https://arxiv.org/abs/2411.13009) / [Poster]("https://zhuohangu.github.io/files/NeurIPS2024_poster.pdf")]
 
 - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-**METIS: Adaptive RAG Systems for Better Quality and Faster Response**<br>
-_Under review at a major operating systems conference_
+**RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation**<br>
+_Under review at a major operating systems conference_ [[Paper](https://arxiv.org/abs/2412.10543)]
 <!-- _**OSDI 2025**_ (under review) -->
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
@@ -92,8 +92,8 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     </li>
     <li><strong>Zhuohan Gu<sup>*</sup></strong>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
       <strong>LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts</strong><br>
-      <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em> (to appear)
-      <a href="https://arxiv.org/abs/2411.13009">[Paper]</a>
+      <em><strong>NeurIPS 2024</strong> workshop on Machine Learning for Systems</em>
+      [<a href="https://arxiv.org/abs/2411.13009">Paper</a> <a href="https://zhuohangu.github.io/files/NeurIPS2024_poster.pdf">Poster</a>]
     </li>
     <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
       <strong>METIS: Adaptive RAG Systems for Better Quality and Faster Response</strong><br>
