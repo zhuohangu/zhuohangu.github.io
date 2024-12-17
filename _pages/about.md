@@ -66,15 +66,15 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 
 - Yuhan Liu, Yuyang Huang, Jiayi Yao, **Zhuohan Gu**, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
 **CacheSync: Efficient Context Sharing for Serving Multiple Large Language Model Variants**<br>
-_Under review at a major operating systems conference_
+_**Under review** at a major operating systems conference_
 
 - **Zhuohan Gu**<sup>*</sup>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
-_**NeurIPS 2024** workshop on Machine Learning for Systems_ [[Paper](https://arxiv.org/abs/2411.13009) / [Poster]("https://zhuohangu.github.io/files/NeurIPS2024_poster.pdf")]
+_**NeurIPS 2024** workshop on Machine Learning for Systems_ [[Paper](https://arxiv.org/abs/2411.13009) / [Poster]("files/NeurIPS2024_poster.pdf")]
 
 - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
 **RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation**<br>
-_Under review at a major operating systems conference_ [[Paper](https://arxiv.org/abs/2412.10543)]
+_**Under review** at a major operating systems conference_ [[Paper](https://arxiv.org/abs/2412.10543)]
 <!-- _**OSDI 2025**_ (under review) -->
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
@@ -88,7 +88,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
   <ul>
     <li>Yuhan Liu, Yuyang Huang, Jiayi Yao, <strong>Zhuohan Gu</strong>, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
       <strong>CacheSync: Efficient Context Sharing for Serving Multiple Large Language Model Variants</strong><br>
-      <em>Under review at a major operating systems conference</em>
+      <em><strong>Under review</strong> at a major operating systems conference</em>
     </li>
     <li><strong>Zhuohan Gu<sup>*</sup></strong>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
       <strong>LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts</strong><br>
@@ -98,7 +98,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
       <strong>RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation</strong><br>
       <!-- <em><strong>OSDI 2025</strong></em> (under review) -->
-      <em><strong></strong>Under review at a major operating systems conference</em>
+      <em><strong>Under review</strong> at a major operating systems conference</em>
       <a href="https://arxiv.org/abs/2412.10543">[Poster]</a>
     </li>
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
