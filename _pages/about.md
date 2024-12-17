@@ -104,7 +104,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
       <strong>Transformer-based Predictions for Sudden Network Changes</strong><br>
       <em><strong>NSDI 2024</strong> Poster Session</em>
-      <a href="https://siddhant-ray.github.io/assets/pdf/transformer_nsdi_poster.pdf">[Poster]</a>
+      <a href="https://siddhant-ray.github.io/assets/pdf/transformer_nsdi_poster.pdf">[Paper]</a>
     </li>
     <li><strong>Zhuohan Gu</strong>, Dadu Chen.<br>
       <strong>An Introduction to Loewner Energy</strong><br>
