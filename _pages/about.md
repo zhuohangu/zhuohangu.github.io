@@ -36,7 +36,7 @@ redirect_from:
 
 ## Research
 
-👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency, affordability, and/or scalability. My recent focus is on ML/LLM inference and AI infrastructure.
+👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency, affordability, and/or scalability. My recent focus is on **ML/LLM inference and AI infrastructure**.
 
 ✏️ During my undergrad years, I began research in math. Advised by Prof. Gregory Lawler and Jinwoo Sung, I worked on probability theory, particularly the loop-erased random walk (LERW), Loop Soups, Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE). Later, I was fortunate to work with **Prof. Junchen Jiang** and Prof. Kexin Pei at UChicago, Prof. Ravi Netravali at Princeton, and Dr. Ganesh Ananthanarayanan at Microsoft Research on MLSys, with a focus on systems for efficient ML/LLM inference.
 
