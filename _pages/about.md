@@ -43,7 +43,7 @@ redirect_from:
 
 ## Recent Projects
 
-I'm currently working on the following open-source projects as a member of [LMCache Lab](https://www.linkedin.com/company/lmcache-lab):
+**I'm currently working on the following open-source projects as a member of [LMCache Lab](https://www.linkedin.com/company/lmcache-lab):**
 
 🚀**LMCache**: The first open-source Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster, at 8x lower cost  
 - [LMCache Project](https://github.com/LMCache/LMCache) is open-source! **Check it out!**
