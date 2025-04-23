@@ -32,28 +32,31 @@ redirect_from:
   </div>
 
 </div>
-🎓 I'm a senior undergraduate at the University of Chicago studying Mathematics and Computer Science.
+🎓 I'm an incoming CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/). I graduated from the University of Chicago with a Bachelor of Science in Mathematics (with Specialization in Economics) and Computer Science.
 
 ## Research
 
-👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency,
-affordability, and/or scalability.
+👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency, affordability, and/or scalability. My recent focus is on ML/LLM inference and AI infrastructure.
 
-✏️ Previously in mathematics, advised by Prof. Gregory Lawler and Jinwoo Sung, I worked on probability theory, particularly the loop-erased random walk (LERW), Loop Soups, Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE).
+✏️ During my undergrad years, I began research in math. Advised by Prof. Gregory Lawler and Jinwoo Sung, I worked on probability theory, particularly the loop-erased random walk (LERW), Loop Soups, Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE). Later, I was fortunate to work with **Prof. Junchen Jiang** and Prof. Kexin Pei at UChicago, Prof. Ravi Netravali at Princeton, and Dr. Ganesh Ananthanarayanan at Microsoft Research on MLSys, with a focus on systems for efficient ML/LLM inference.
 
-I am fortunate to be advised by **Prof. Junchen Jiang** at the University of Chicago and to collaborate with Prof. Kexin Pei at UChicago, Prof. Ravi Netravali at Princeton, and Dr. Ganesh Ananthanarayanan at Microsoft Research.
-
-I am applying for PhD positions starting in Fall 2025 and looking for a research internship in Systems/ML for Summer 2025. Please feel free to reach out via email if you see a fit!
 
 ## Recent Projects
 
+I'm currently working on the following open-source projects as a member of [LMCache Lab](https://www.linkedin.com/company/lmcache-lab):
+
+🚀**LMCache**: The first open-source Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster, at 8x lower cost  
+- [LMCache Project](https://github.com/LMCache/LMCache) is open-source! **Check it out!**
+- Website: [LMCache Website](https://lmcache.ai/)  
+- Technical reports: [CacheGen](https://arxiv.org/abs/2310.07240) (SIGCOMM'24) and [CacheBlend](https://arxiv.org/abs/2405.16444) (EuroSys'25 Best Paper).
+
+🚀**vLLM Production Stack**: Scale from a single vLLM instance to a distributed vLLM deployment without changing any application code
+- [vLLM Production Stack Project](https://github.com/vllm-project/production-stack) is open-source! **Check it out!**
+
+## Past Projects
+
 🚀**Resource Allocation for Multi-Tenant Retrieval-Augmented Generation (RAG) Systems**  
 Check it out [here](https://uchi-jcl.github.io/group-website/projects/ragoptimization/)!
-
-🚀**LMCache**: Long-Context LLM Serving by Sharing Knowledge (KV Cache)  
-- [LMCache project](https://github.com/LMCache/LMCache): The first *open-source* Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster at 8x lower cost by efficiently managing long documents (and other knowledge sources).  
-- Website: [LMCache website](https://lmcache.ai/)  
-- Technical reports: [CacheGen](https://arxiv.org/abs/2310.07240) (SIGCOMM'24) and [CacheBlend](https://arxiv.org/abs/2405.16444) (EuroSys'25 to appear).
 
 🚀**KV Cache Compression and Streaming for Multimodal Large Language Models (MLLMs)**
 
