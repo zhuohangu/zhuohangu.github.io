@@ -78,7 +78,7 @@ _**NeurIPS 2024** workshop on Machine Learning for Systems_ [[Paper](https://arx
 
 - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
 **METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation**<br>
-_**SOSP 2025**_ (to appear)_ [[Paper](https://arxiv.org/abs/2412.10543)]
+_**SOSP 2025** (to appear)_ [[Paper](https://arxiv.org/abs/2412.10543)]
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
 **Transformer-based Predictions for Sudden Network Changes**<br>
