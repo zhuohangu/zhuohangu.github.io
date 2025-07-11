@@ -27,8 +27,8 @@ redirect_from:
   </div>
 
   <div style="flex: 1 1 150px; max-width: 300px; text-align: center;">
-    <img src="/images/ox_quad.jpg" alt="Quod" style="width: auto; height: 200px;">
-    <figcaption><em>Quod Restaurant & Bar, 92-94 High St, Oxford, Oxfordshire, OX1 4BJ</em></figcaption>
+    <img src="/images/uchi-grad.jpg" alt="uchi-grad" style="width: auto; height: 200px;">
+    <figcaption><em>Main Quadrangle — Receiving my Bachelor's degree from UChicago, June 2025.</em></figcaption>
   </div>
 
 </div>
@@ -36,7 +36,8 @@ redirect_from:
 
 ## Research
 
-👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency, affordability, and/or scalability. My recent focus is on **ML/LLM inference and AI infrastructure**.
+<!-- 👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency, affordability, and/or scalability. My recent focus is on **ML/LLM inference and AI infrastructure**. -->
+👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**, with a recent focus is on **ML/LLM inference and AI infrastructure**. I work on high-performance KV cache management in LLM serving, including KV cache compression, P/D disaggregation, and KV blending/editing. I'm also a community builder for two open-source projects LMCache and vLLM Production Stack as a member of LMCache Lab.
 
 ✏️ During my undergrad years, I began research in math. Advised by Prof. Gregory Lawler and Jinwoo Sung, I worked on probability theory, particularly the loop-erased random walk (LERW), Loop Soups, Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE). Later, I was fortunate to work with **Prof. Junchen Jiang** and Prof. Kexin Pei at UChicago, Prof. Ravi Netravali at Princeton, and Dr. Ganesh Ananthanarayanan at Microsoft Research on MLSys, with a focus on systems for efficient ML/LLM inference.
 
@@ -76,9 +77,8 @@ _**Under review** at a major systems conference_ [[Paper](https://arxiv.org/abs/
 _**NeurIPS 2024** workshop on Machine Learning for Systems_ [[Paper](https://arxiv.org/abs/2411.13009) / [Poster](https://zhuohangu.github.io/files/NeurIPS2024_poster.pdf)]
 
 - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-**RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation**<br>
-_**Under review** at a major systems conference_ [[Paper](https://arxiv.org/abs/2412.10543)]
-<!-- _**OSDI 2025**_ (under review) -->
+**METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation**<br>
+_**SOSP 2025**_ (to appear)_ [[Paper](https://arxiv.org/abs/2412.10543)]
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
 **Transformer-based Predictions for Sudden Network Changes**<br>
