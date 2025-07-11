@@ -28,7 +28,7 @@ redirect_from:
 
   <div style="flex: 1 1 150px; max-width: 300px; text-align: center;">
     <img src="/images/uchi-grad.jpg" alt="uchi-grad" style="width: auto; height: 200px;">
-    <figcaption><em>Main Quadrangle — Receiving my Bachelor's degree from UChicago, June 2025.</em></figcaption>
+    <figcaption><em>Main Quadrangle — Here I am receiving my Bachelor of Science degree from UChicago, June 2025.</em></figcaption>
   </div>
 
 </div>
