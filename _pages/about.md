@@ -69,8 +69,8 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 *: Equal Contribution.
 
 - Yuhan Liu, Yuyang Huang, Jiayi Yao, **Zhuohan Gu**, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
-**DroidSpeak: KV Cache Sharing for Efficient Multi-LLM Serving**<br>
-_**Under review** at a major systems conference_ [[Paper](https://arxiv.org/abs/2411.02820)]
+**DroidSync: Efficient Context Sharing for Multiple-LLM Inference**<br>
+_**NSDI 2026** (to appear)_ [[Paper](https://arxiv.org/abs/2411.02820)]
 
 - **Zhuohan Gu**<sup>*</sup>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
@@ -90,8 +90,8 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
   <summary>Expand</summary>
   <ul>
     <li>Yuhan Liu, Yuyang Huang, Jiayi Yao, <strong>Zhuohan Gu</strong>, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
-      <strong>DroidSpeak: KV Cache Sharing for Efficient Multi-LLM Serving</strong><br>
-      <em><strong>Under review</strong> at a major systems conference</em>
+      <strong>DroidSync: Efficient Context Sharing for Multiple-LLM Inference</strong><br>
+      <em><strong>NSDI 2026</strong></em> (to appear)
       <a href="https://arxiv.org/abs/2411.02820">[Paper]</a>
     </li>
     <li><strong>Zhuohan Gu<sup>*</sup></strong>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
