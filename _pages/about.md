@@ -142,7 +142,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
 I grew up in Guangzhou (Canton) and Hong Kong before moving to Washington, D.C. for high school.<br>
 I speak English, Cantonese, and Mandarin fluently, and a little bit of Hakka and Spanish.<br>
 I love piano and classical music. A lot. For piano, I mainly play Beethoven and Chopin, and sometimes Saint-Saëns and Mozart.<br>
-I love sports. Also a lot. I played varsity soccer and basketball in high school, and I follow all kinds of sports, from soccer and basketball to tennis, golf, etc. I am a fan of Borussia Dortmund💛🖤.<br>
+I love sports. Also a lot. I played varsity soccer and basketball in high school, and I follow all kinds of sports, from soccer and basketball to tennis, golf, F1, etc. I’m a fan of Borussia Dortmund💛🖤.<br>
 I also love movies, astronomy, food, etc.
 
 _To be continued…_
