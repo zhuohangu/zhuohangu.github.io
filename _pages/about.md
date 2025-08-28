@@ -32,7 +32,7 @@ redirect_from:
   </div>
 
 </div>
-🎓 I'm an incoming CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/). I graduated from the University of Chicago with a Bachelor of Science in Mathematics (with Specialization in Economics) and Computer Science.
+🎓 I'm a first-year CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/). I graduated from the University of Chicago with a Bachelor of Science in Mathematics (with Specialization in Economics) and Computer Science.
 
 ## Research
 
