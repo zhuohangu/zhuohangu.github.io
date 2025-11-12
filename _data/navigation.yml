@@ -15,7 +15,7 @@ main:
   #   url: /cv/
   
   - title: "Group"
-    url: https://uchi-jcl.github.io/group-website/
+    url: https://dsg.csail.mit.edu/
   
   - title: "KV Cache Size Calculator"
     url: https://lmcache.ai/kv_cache_calculator.html
