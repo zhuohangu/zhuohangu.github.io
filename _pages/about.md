@@ -70,17 +70,17 @@ Check it out [here](https://uchi-jcl.github.io/group-website/projects/knowledges
 ## Selected Publications
 *: Equal Contribution.
 
-- Yuhan Liu, Yuyang Huang, Jiayi Yao, **Zhuohan Gu**, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
-**DroidSync: Efficient Context Sharing for Multiple-LLM Inference**<br>
+- Yuhan Liu, Yuyang Huang, Jiayi Yao, Shaoting Feng, **Zhuohan Gu**, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
+**DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving**<br>
 _**NSDI 2026** (to appear)_ [[Paper](https://arxiv.org/abs/2411.02820)]
+
+- Siddhant Ray, Rui Pan, **Zhuohan Gu**, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
+**METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation**<br>
+_**SOSP 2025**_ [[Paper](https://arxiv.org/abs/2412.10543)]
 
 - **Zhuohan Gu**<sup>*</sup>, Jiayi Yao<sup>*</sup>, Kuntai Du, Junchen Jiang.<br>
 **LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**<br>
 _**NeurIPS 2024** workshop on Machine Learning for Systems_ [[Paper](https://arxiv.org/abs/2411.13009) / [Poster](https://zhuohangu.github.io/files/NeurIPS2024_poster.pdf)]
-
-- Siddhant Ray, Rui Pan, **Zhuohan Gu**, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
-**METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation**<br>
-_**SOSP 2025** [[Paper](https://arxiv.org/abs/2412.10543)]
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
 **Transformer-based Predictions for Sudden Network Changes**<br>
@@ -91,8 +91,13 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
 <details>
   <summary>Expand</summary>
   <ul>
-    <li>Yuhan Liu, Yuyang Huang, Jiayi Yao, <strong>Zhuohan Gu</strong>, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
-      <strong>DroidSync: Efficient Context Sharing for Multiple-LLM Inference</strong><br>
+    <li>Shaoting Feng, Hanchen Li, Kuntai Du, <strong>Zhuohan Gu</strong>, Yuhan Liu, Jiayi Yao, Siddhant Ray, Samuel Shen, Yihua Cheng, Ganesh Ananthanarayanan, Junchen Jiang.<br>
+      <strong>AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving</strong><br>
+      <em><strong>SOSP 2025</strong> Workshop on Big Memory (BigMem) 2025</em>
+      <a href="https://arxiv.org/abs/2509.00105">[Paper]</a>
+    </li>
+    <li>Yuhan Liu, Yuyang Huang, Jiayi Yao, Shaoting Feng, <strong>Zhuohan Gu</strong>, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.<br>
+      <strong>DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving</strong><br>
       <em><strong>NSDI 2026</strong></em> (to appear)
       <a href="https://arxiv.org/abs/2411.02820">[Paper]</a>
     </li>
