@@ -48,7 +48,7 @@ I'm always open to collaborations and working with undergraduate students. Check
 
 ## Past Projects
 
-**I previously worked on the following two open-source projects as a member of [LMCache Lab](https://www.linkedin.com/company/lmcache-lab):**
+<!-- **I previously worked on the following two open-source projects as a member of [LMCache Lab](https://www.linkedin.com/company/lmcache-lab):** -->
 
 🚀**LMCache**: The first open-source Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster, at 8x lower cost  
 - [LMCache Project](https://github.com/LMCache/LMCache) is open-source! **Check it out!**
