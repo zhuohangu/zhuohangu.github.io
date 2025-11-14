@@ -44,9 +44,11 @@ redirect_from:
 I'm always open to collaborations and working with undergraduate students. Check out [Collaborations](/collaborations/) for details.
 
 
-## Recent Projects
+<!-- ## Recent Projects -->
 
-**I'm currently working on the following open-source projects as a member of [LMCache Lab](https://www.linkedin.com/company/lmcache-lab):**
+## Past Projects
+
+**I previously worked on the following open-source projects as a member of [LMCache Lab](https://www.linkedin.com/company/lmcache-lab):**
 
 🚀**LMCache**: The first open-source Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster, at 8x lower cost  
 - [LMCache Project](https://github.com/LMCache/LMCache) is open-source! **Check it out!**
@@ -55,8 +57,6 @@ I'm always open to collaborations and working with undergraduate students. Check
 
 🚀**vLLM Production Stack**: Scale from a single vLLM instance to a distributed vLLM deployment without changing any application code
 - [vLLM Production Stack Project](https://github.com/vllm-project/production-stack) is open-source! **Check it out!**
-
-## Past Projects
 
 🚀**Resource Allocation for Multi-Tenant Retrieval-Augmented Generation (RAG) Systems**  
 Check it out [here](https://uchi-jcl.github.io/group-website/projects/ragoptimization/)!
@@ -80,7 +80,7 @@ _**NeurIPS 2024** workshop on Machine Learning for Systems_ [[Paper](https://arx
 
 - Siddhant Ray, Rui Pan, **Zhuohan Gu**, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
 **METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation**<br>
-_**SOSP 2025** (to appear)_ [[Paper](https://arxiv.org/abs/2412.10543)]
+_**SOSP 2025** [[Paper](https://arxiv.org/abs/2412.10543)]
 
 - Siddhant Ray, **Zhuohan Gu**, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
 **Transformer-based Predictions for Sudden Network Changes**<br>
@@ -103,7 +103,7 @@ _**NSDI 2024** Poster Session_ [[Poster](https://siddhant-ray.github.io/assets/p
     </li>
     <li>Siddhant Ray, Rui Pan, <strong>Zhuohan Gu</strong>, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang.<br>
       <strong>METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation</strong><br>
-      <em><strong>SOSP 2025</strong></em> (to appear)
+      <em><strong>SOSP 2025</strong></em>
       <a href="https://arxiv.org/abs/2412.10543">[Paper]</a>
     </li>
     <li>Siddhant Ray, <strong>Zhuohan Gu</strong>, Xi Jiang, Junchen Jiang, Nick Feamster.<br>
