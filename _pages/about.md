@@ -37,9 +37,11 @@ redirect_from:
 ## Research
 
 <!-- 👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**. I build more efficient and reliable systems, both tailored to and powered by state-of-the-art machine learning algorithms, to improve performance, resource efficiency, affordability, and/or scalability. My recent focus is on **ML/LLM inference and AI infrastructure**. -->
-👨‍💻 My research interests lie broadly in **computer systems** and **machine learning**, with a recent focus is on **ML/LLM inference and AI infrastructure**. I work on high-performance KV cache management in LLM serving, including KV cache compression, P/D disaggregation, and KV blending/editing. I'm also a community builder for two open-source projects **LMCache** and **vLLM Production Stack** as a member of LMCache Lab.
+👨‍💻 My research interests lie broadly in **computer systems** and **artificial intelligence**. I build more efficient, reliable systems to improve ML/AI workloads. I've worked on **ML/LLM inference and AI infrastructure**, focusing on high-performance KV cache management in LLM serving, such as KV cache compression, P/D disaggregation, and KV blending/editing. I was also a community builder for two open-source projects **LMCache** and **vLLM Production Stack** as a member of LMCache Lab.
 
-✏️ During my undergrad years, I began research in math. Advised by Prof. Gregory Lawler and Jinwoo Sung, I worked on probability theory, particularly the loop-erased random walk (LERW), Loop Soups, Gaussian Free Field (GFF), and Schramm–Loewner Evolution (SLE). Later, I was fortunate to work with **Prof. Junchen Jiang** and Prof. Kexin Pei at UChicago, Prof. Ravi Netravali at Princeton, and Dr. Ganesh Ananthanarayanan at Microsoft Research on MLSys, with a focus on systems for efficient ML/LLM inference.
+✏️ During my undergrad years, I began research in math. Advised by Prof. Gregory Lawler and Jinwoo Sung, I worked on probability theory. Later, I was fortunate to work with **Prof. Junchen Jiang** and Prof. Kexin Pei at UChicago, Prof. Ravi Netravali at Princeton, and Dr. Ganesh Ananthanarayanan at Microsoft Research on MLSys.
+
+I'm always open to collaborations and working with undergraduate students. Check out [Collaborations](/collaborations/) for details.
 
 
 ## Recent Projects

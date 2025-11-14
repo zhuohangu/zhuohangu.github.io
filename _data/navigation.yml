@@ -14,6 +14,9 @@ main:
   # - title: "CV"
   #   url: /cv/
   
+  - title: "Collaborations"
+    url: /collaborations/
+  
   - title: "Group"
     url: https://dsg.csail.mit.edu/
   
