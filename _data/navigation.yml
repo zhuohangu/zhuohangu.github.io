@@ -13,12 +13,12 @@ main:
 
   # - title: "CV"
   #   url: /cv/
-  
-  - title: "Collaborations"
-    url: /collaborations/
-  
+
   - title: "Group"
     url: https://dsg.csail.mit.edu/
+
+  - title: "Collaborations"
+    url: /collaborations/
   
   - title: "KV Cache Size Calculator"
     url: https://lmcache.ai/kv_cache_calculator.html
