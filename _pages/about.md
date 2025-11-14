@@ -53,7 +53,7 @@ I'm always open to collaborations and working with undergraduate students. Check
 🚀**LMCache**: The first open-source Knowledge Delivery Network (KDN) that accelerates LLM applications up to 8x faster, at 8x lower cost  
 - [LMCache Project](https://github.com/LMCache/LMCache) is open-source! **Check it out!**
 - Website: [LMCache Website](https://lmcache.ai/)  
-- Technical reports: [CacheGen](https://arxiv.org/abs/2310.07240) (SIGCOMM'24) and [CacheBlend](https://arxiv.org/abs/2405.16444) (EuroSys'25 Best Paper).
+<!-- - Technical reports: [CacheGen](https://arxiv.org/abs/2310.07240) (SIGCOMM'24) and [CacheBlend](https://arxiv.org/abs/2405.16444) (EuroSys'25 Best Paper). -->
 
 🚀**vLLM Production Stack**: Scale from a single vLLM instance to a distributed vLLM deployment without changing any application code
 - [vLLM Production Stack Project](https://github.com/vllm-project/production-stack) is open-source! **Check it out!**
