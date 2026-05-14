@@ -35,7 +35,7 @@ redirect_from:
 
 </div>
 
-🎓 I'm a first-year CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/), advised by [Samuel Madden](https://db.csail.mit.edu/madden/). I'm also a member of [LMCache Lab](https://lmcache.ai/). I have been fortunate to work with Omar Khattab, Junchen Jiang, Ravi Netravali, Kexin Pei, and Ganesh Ananthanarayanan. Previously, I graduated from the University of Chicago with a B.S. in Mathematics, with a specialization in Economics, and Computer Science.
+🎓 I'm a first-year CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/), advised by [Samuel Madden](https://db.csail.mit.edu/madden/). I'm also a member of [LMCache Lab](https://lmcache.ai/). I have been fortunate to work with Omar Khattab, Junchen Jiang, Ravi Netravali, Kexin Pei, and Ganesh Ananthanarayanan. Previously, I graduated from the University of Chicago with a B.S. in Mathematics and Computer Science.
 
 <!-- ## Research -->
 
@@ -46,7 +46,7 @@ In a fruitful and diverse previous life, I was a research engineer on the foundi
 Feel free to shoot me an email to talk about anything. I am always open to collaborations and working with undergraduate/master's students. Check out [Collaborations](/collaborations/) for details.
 
 ## Education
-- B.S., University of Chicago, Mathematics and Computer Science, 2022-2025
+- B.S., University of Chicago, Mathematics (with Specialization in Economics) and Computer Science, 2022-2025
 <!-- - High School Diploma, St. Anselm's Abbey School, Washington, DC, 2017–2020 -->
 
 ## More About Me
