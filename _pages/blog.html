@@ -42,6 +42,28 @@ author_profile: true
     margin: 0 auto;
     line-height: 1.5;
   }
+
+  /* Placeholder post styling */
+  .blog-placeholder {
+    border-top: 1px solid #e0e0e0;
+    padding: 1.5em 0;
+    color: #aaa;
+  }
+  .blog-placeholder-title {
+    font-size: 1.35em;
+    font-weight: 600;
+    color: #bbb;
+    margin: 0 0 0.4em 0;
+  }
+  .blog-placeholder-excerpt {
+    font-size: 0.95em;
+    color: #bbb;
+    margin: 0 0 0.6em 0;
+  }
+  .blog-placeholder-meta {
+    font-size: 0.82em;
+    color: #ccc;
+  }
 </style>
 
 <div class="blog-hero">
@@ -61,3 +83,12 @@ author_profile: true
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% if site.posts.size == 0 %}
+<h2 class="archive__subtitle">2026</h2>
+<div class="blog-placeholder">
+  <div class="blog-placeholder-title">Coming Very Soon</div>
+  <div class="blog-placeholder-excerpt">We study...</div>
+  <div class="blog-placeholder-meta">— min read &nbsp;·&nbsp; 2026</div>
+</div>
+{% endif %}
