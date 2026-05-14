@@ -41,7 +41,7 @@ redirect_from:
 
 👨‍💻 My research interests lie broadly in **computer systems** and **artificial intelligence**. I build more efficient, reliable systems to improve ML/AI workloads, e.g., agentic context management, AI query engines for deep research, and KV cache management.
 
-In a fruitful and diverse previous life, I was a research engineer on the founding team of [Tensormesh](https://www.tensormesh.ai/) (creator of LMCache). During my undergraduate years, I began research in mathematics, advised by Gregory Lawler and Jinwoo Sung, and worked on probability theory.
+In a fruitful and diverse previous life, I was a research engineer on the founding team of [Tensormesh](https://www.tensormesh.ai/) (creator of LMCache). During my undergraduate years, I began research in mathematics, advised by [Gregory Lawler](https://math.uchicago.edu/~lawler/) and [Jinwoo Sung](https://sites.math.washington.edu/~jwsung/), and worked on probability theory.
 
 Feel free to shoot me an email to talk about anything. I am always open to collaborations and working with undergraduate/master's students. Check out [Collaborations](/collaborations/) for details.
 
