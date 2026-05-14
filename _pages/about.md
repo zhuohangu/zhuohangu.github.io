@@ -46,7 +46,8 @@ In a fruitful and diverse previous life, I was a research engineer on the foundi
 Feel free to shoot me an email to talk about anything. I am always open to collaborations and working with undergraduate/master's students. Check out [Collaborations](/collaborations/) for details.
 
 ## Education
-- B.S., University of Chicago, Mathematics (with Specialization in Economics) and Computer Science, 2022-2025
+- **Ph.D. in Computer Science**, Massachusetts Institute of Technology, 2025-present
+- **B.S. in Mathematics (with Specialization in Economics) and Computer Science**, University of Chicago, 2022-2025
 <!-- - High School Diploma, St. Anselm's Abbey School, Washington, DC, 2017–2020 -->
 
 ## More About Me

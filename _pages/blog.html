@@ -7,7 +7,50 @@ author_profile: true
 
 {% include base_path %}
 
-<p class="page__lead"><em>Small things I've learned, occasionally written down.</em></p>
+<style>
+  /* Hide the default auto-rendered page title; we use our own hero */
+  .page__title { display: none; }
+
+  .blog-hero {
+    text-align: center;
+    padding: 1.5em 0 2em 0;
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 2em;
+  }
+
+  .blog-hero-title {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    font-size: 2.8em;
+    font-weight: 400;
+    color: #e8742a;
+    margin: 0 0 0.4em 0;
+    font-family: Georgia, 'Times New Roman', serif;
+    line-height: 1.1;
+  }
+
+  .blog-hero-title img {
+    height: 0.9em;
+    vertical-align: middle;
+  }
+
+  .blog-hero-subtitle {
+    font-size: 1.05em;
+    color: #555;
+    max-width: 580px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+</style>
+
+<div class="blog-hero">
+  <div class="blog-hero-title">
+    Nuggets of Wisdom
+    <img src="/images/ChatGPT%20Image%20May%2014%2C%202026%2C%2003_31_41%20PM.png" alt="">
+  </div>
+  <p class="blog-hero-subtitle"><em>Small things I've learned, occasionally written down.</em></p>
+</div>
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
