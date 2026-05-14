@@ -2,139 +2,93 @@
 layout: archive
 title: "Nuggets of Wisdom"
 permalink: /blog/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
 
 <style>
-  .page__title {
-    display: none;
-  }
+  /* Hide the default auto-rendered page title; we use our own hero */
+  .page__title { display: none; }
 
-  .archive {
-    float: none;
-    width: 100%;
-    max-width: 760px;
-    margin: 0 auto 3rem;
-    padding: 0 1rem;
-  }
-
-  .blog-page {
-    color: #222;
-  }
-
-  .blog-header {
-    border-bottom: 1px solid #e5e5e5;
-    padding: 2rem 0 2.75rem;
+  .blog-hero {
     text-align: center;
+    padding: 1.5em 0 2em 0;
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 2em;
   }
 
-  .blog-header h1 {
-    margin: 0;
-    color: #52adc8;
-    font-size: 4.5rem;
-    font-weight: 500;
-    line-height: 1;
+  .blog-hero-title {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    font-size: 2.8em;
+    font-weight: 400;
+    color: #e8742a;
+    margin: 0 0 0.4em 0;
+    font-family: Georgia, 'Times New Roman', serif;
+    line-height: 1.1;
   }
 
-  .blog-header p {
-    max-width: 34rem;
-    margin: 0.85rem auto 0;
-    color: #777;
-    font-size: 1.05rem;
-    line-height: 1.5;
+  .blog-hero-title img {
+    height: 2em;
+    vertical-align: middle;
   }
 
-  .post-list {
-    margin: 0 0 2.5rem;
-    padding: 0;
-  }
-
-  .post-list li {
-    border-bottom: 1px solid #e5e5e5;
-    list-style: none;
-    padding: 2rem 0;
-  }
-
-  .post-list h3 {
-    margin: 0 0 0.65rem;
-    font-size: 1.35rem;
-    font-weight: 500;
-    line-height: 1.25;
-  }
-
-  .archive .blog-page a,
-  .post-title {
-    color: #222;
-    text-decoration: none;
-  }
-
-  .archive .blog-page a:hover,
-  .post-title:hover {
-    color: #52adc8;
-    text-decoration: none;
-  }
-
-  .post-description {
-    margin: 0 0 0.85rem;
+  .blog-hero-subtitle {
+    font-size: 1.05em;
     color: #555;
-    font-size: 1rem;
-    line-height: 1.55;
-  }
-
-  .post-meta,
-  .post-tags {
-    margin: 0;
-    color: #8a8a8a;
-    font-size: 0.875rem;
+    max-width: 580px;
+    margin: 0 auto;
     line-height: 1.5;
   }
 
-  .post-tags {
-    padding-top: 0.25rem;
-  }
-
-  .post-tags span + span::before {
-    content: "·";
-    margin: 0 0.65rem;
+  /* Placeholder post styling */
+  .blog-placeholder {
+    border-top: 1px solid #e0e0e0;
+    padding: 1.5em 0;
     color: #aaa;
   }
-
-  @media (max-width: 640px) {
-    .archive {
-      padding: 0 0.5rem;
-    }
-
-    .blog-header {
-      padding-top: 1.25rem;
-      padding-bottom: 2rem;
-    }
-
-    .blog-header h1 {
-      font-size: 3rem;
-    }
+  .blog-placeholder-title {
+    font-size: 1.35em;
+    font-weight: 600;
+    color: #bbb;
+    margin: 0 0 0.4em 0;
+  }
+  .blog-placeholder-excerpt {
+    font-size: 0.95em;
+    color: #bbb;
+    margin: 0 0 0.6em 0;
+  }
+  .blog-placeholder-meta {
+    font-size: 0.82em;
+    color: #ccc;
   }
 </style>
 
-<div class="blog-page">
-  <div class="blog-header">
-    <h1>Nuggets of Wisdom</h1>
-    <p>Blogs and thoughts, occasionally written down.</p>
+<div class="blog-hero">
+  <div class="blog-hero-title">
+    Nuggets of Wisdom
+    <img src="/images/ChatGPT%20Image%20May%2014%2C%202026%2C%2003_31_41%20PM.png" alt="">
   </div>
-
-  <ul class="post-list">
-    <li>
-      <h3>
-        <a class="post-title" href="{{ '/blog/' | relative_url }}">Coming very soon</a>
-      </h3>
-      <p class="post-description">We study ...</p>
-      <p class="post-meta">9 min read &nbsp; &middot; &nbsp; April 26, 2026</p>
-      <p class="post-tags">
-        <span>2026</span>
-        <span>mismanaged</span>
-        <span>longcot</span>
-      </p>
-    </li>
-  </ul>
+  <p class="blog-hero-subtitle"><em>Blogs and thoughts, occasionally written down.</em></p>
 </div>
+
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% if site.posts.size == 0 %}
+<h2 class="archive__subtitle">2026</h2>
+<div class="blog-placeholder">
+  <div class="blog-placeholder-title">Coming Very Soon</div>
+  <div class="blog-placeholder-excerpt">We study...</div>
+  <div class="blog-placeholder-meta">— min read &nbsp;·&nbsp; 2026</div>
+</div>
+{% endif %}
