@@ -1,0 +1,31 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+<h2>Featured Recent Papers</h2><hr />
+{% for post in site.publications reversed %}
+  {% if post.category == "featured" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Other Papers</h2><hr />
+{% for post in site.publications reversed %}
+  {% if post.category == "other" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Talks</h2><hr />
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
