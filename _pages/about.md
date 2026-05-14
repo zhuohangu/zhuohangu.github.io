@@ -35,7 +35,7 @@ redirect_from:
 
 </div>
 
-🎓 I'm a first-year CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/), advised by [Samuel Madden](https://db.csail.mit.edu/madden/). I'm also a member of [LMCache Lab](https://lmcache.ai/). I have been fortunate to work with Omar Khattab, Junchen Jiang, Ravi Netravali, Kexin Pei, and Ganesh Ananthanarayanan. Previously, I graduated from the University of Chicago with a B.S. in Mathematics and Computer Science.
+🎓 I'm a first-year CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/), advised by [Samuel Madden](https://db.csail.mit.edu/madden/). I'm also a member of [LMCache Lab](https://lmcache.ai/). I have been fortunate to work with Omar Khattab, Junchen Jiang, Ravi Netravali, Kexin Pei, and Ganesh Ananthanarayanan. Previously, I graduated from the University of Chicago with B.S. in Mathematics and Computer Science.
 
 <!-- ## Research -->
 
