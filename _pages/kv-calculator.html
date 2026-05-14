@@ -12,24 +12,7 @@ sitemap: false
   <meta name="robots" content="noindex">
   <link rel="canonical" href="https://lmcache.ai/kv_cache_calculator.html">
 
-  {% if site.analytics.google.tracking_id %}
-  <!-- Google Analytics (GA4) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ site.analytics.google.tracking_id }}', { 'transport_type': 'beacon' });
-    gtag('event', 'kv_calculator_click', {
-      'event_category': 'outbound',
-      'event_label': 'kv_cache_size_calculator',
-      'transport_type': 'beacon'
-    });
-  </script>
-  {% endif %}
-
-  <script>
-    // Redirect after a short delay so the analytics beacon has time to send.
     setTimeout(function () {
       window.location.replace("https://lmcache.ai/kv_cache_calculator.html");
     }, 250);
