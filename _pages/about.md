@@ -35,16 +35,15 @@ redirect_from:
 
 </div>
 
-🎓 I'm a first-year CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/), advised by [Samuel Madden](https://db.csail.mit.edu/madden/). I'm also a member of [LMCache Lab](https://lmcache.ai/). I have been fortunate to work with Omar Khattab, Junchen Jiang, Ravi Netravali, Kexin Pei, and Ganesh Ananthanarayanan. Previously, I graduated from the University of Chicago with a B.S. in Mathematics (with a specialization in Economics) and Computer Science.
+🎓 I'm a first-year CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/), advised by [Samuel Madden](https://db.csail.mit.edu/madden/). I'm also a member of [LMCache Lab](https://lmcache.ai/). I have been fortunate to work with Omar Khattab, Junchen Jiang, Ravi Netravali, Kexin Pei, and Ganesh Ananthanarayanan. Previously, I graduated from the University of Chicago with a B.S. in Mathematics, with a specialization in Economics, and Computer Science.
 
 <!-- ## Research -->
 
-👨‍💻 My research interests lie broadly in **computer systems** and **artificial intelligence**. I build more efficient, reliable systems to improve ML/AI workloads e.g., agentic context management, AI query engines for deep research, and KV cache management.
+👨‍💻 My research interests lie broadly in **computer systems** and **artificial intelligence**. I build more efficient, reliable systems to improve ML/AI workloads, e.g., agentic context management, AI query engines for deep research, and KV cache management.
 
-In a fruitful and diverse previous life, I was a research engineer on the founding team of Tensormesh[https://www.tensormesh.ai/] (creator of LMCache). During my undergraduate years, I began research in mathematics, advised by Gregory Lawler and Jinwoo Sung, and worked on probability theory.
+In a fruitful and diverse previous life, I was a research engineer on the founding team of [Tensormesh](https://www.tensormesh.ai/) (creator of LMCache). During my undergraduate years, I began research in mathematics, advised by Gregory Lawler and Jinwoo Sung, and worked on probability theory.
 
-Feel free to shoot me an email to talk about anything. I am always open to collaborations and working with undergraduate/master students. Check out [Collaborations](/collaborations/) for details.
-
+Feel free to shoot me an email to talk about anything. I am always open to collaborations and working with undergraduate/master's students. Check out [Collaborations](/collaborations/) for details.
 
 ## Education
 - B.S., University of Chicago, Mathematics and Computer Science, 2022-2025

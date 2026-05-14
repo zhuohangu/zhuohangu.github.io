@@ -10,27 +10,32 @@ author_profile: true
 {% endif %}
 
 <style>
-  /* Scoped styles for the cvlist on the Research page */
-  .cvlist { list-style: none; padding-left: 0; margin: 0 0 1.5em 0; }
-  .cvlist .cvitem { margin-bottom: 1.2em; line-height: 1.45; }
-  .cvlist .cvitem-title { font-weight: 600; }
-  .cvlist .authorlist { font-size: 0.95em; }
-  .cvlist .authorlist .me { font-weight: 700; }
-  .cvlist .venue { font-style: italic; font-size: 0.92em; color: #555; }
-  .cvlist .award { font-size: 0.92em; color: #8a6d00; }
-  .cvlist .media { font-size: 0.92em; color: #444; }
-  .cvlist .links { font-size: 0.92em; margin-top: 0.15em; }
-  .cvlist .links a { text-decoration: none; }
-  .cvlist .links a:hover { text-decoration: underline; }
-  .research-section { margin-top: 1.5em; }
-  .research-section hr { margin-top: 0.25em; }
+  /* Qizheng-style cvlist, scoped to the Research page */
+  .research-section { font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  .research-section h3 { font-weight: bold; margin: 1.2em 0 0.5em 0; }
+
+  .cvlist { list-style-type: none; padding: 0 1em; margin: 0 0 1.5em 0; }
+  .cvitem { margin: 0 0 1em 0; line-height: 1.45; }
+  .cvitem-title { color: #533980; font-weight: bold; margin: 0 0 3px 0; }
+  .authorlist { margin: 0 0 3px 0; }
+  .authorlist .me { font-weight: 600; }
+  .venue { font-style: italic; margin: 0 0 3px 0; }
+  .award { font-weight: bold; color: #d94747; margin: 0 0 3px 0; }
+  .media { margin: 0 0 3px 0; }
+  .links { margin: 0; }
+
+  /* Blue, no-underline links inside the cvlist (override theme defaults) */
+  .cvlist a,
+  .cvlist a:visited { color: #038CFC; text-decoration: none; }
+  .cvlist a:hover    { color: #026abf; text-decoration: none; }
+  .cvlist a:active   { color: black; }
 </style>
 
 <div class="research-section">
-  <h3>Featured Recent Papers &amp; Projects</h3><hr />
+  <h3>Featured Recent Papers &amp; Projects</h3>
   <ul class="cvlist">
     <li class="cvitem">
-      <div class="cvitem-title">RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation</div>
+      <div class="cvitem-title">METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation</div>
       <div class="authorlist">Siddhant Ray, Rui Pan, <b class="me">Zhuohan Gu*</b>, Kuntai Du, Ganesh Ananthanarayanan, Ravi Netravali, Junchen Jiang</div>
       <div class="venue">SOSP 2025</div>
       <div class="links">
@@ -42,7 +47,7 @@ author_profile: true
 </div>
 
 <div class="research-section">
-  <h3>Other Papers</h3><hr />
+  <h3>Other Papers</h3>
   <ul class="cvlist">
     <li class="cvitem">
       <div class="cvitem-title">DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving</div>
@@ -62,19 +67,19 @@ author_profile: true
       </div>
     </li>
     <li class="cvitem">
-      <div class="cvitem-title">Transformer-based Predictions for Sudden Network Changes</div>
-      <div class="authorlist">Siddhant Ray, <b class="me">Zhuohan Gu</b>, Xi Jiang, Junchen Jiang, Nick Feamster</div>
-      <div class="venue">NSDI 2024 Poster Session</div>
-      <div class="links">
-        [<a href="https://siddhant-ray.github.io/assets/pdf/transformer_nsdi_poster.pdf">poster</a>]
-      </div>
-    </li>
-    <li class="cvitem">
       <div class="cvitem-title">AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving</div>
       <div class="authorlist">Shaoting Feng, Hanchen Li, Kuntai Du, <b class="me">Zhuohan Gu</b>, Yuhan Liu, Jiayi Yao, Siddhant Ray, Samuel Shen, Yihua Cheng, Ganesh Ananthanarayanan, Junchen Jiang</div>
       <div class="venue">SOSP 2025 Workshop on Big Memory (BigMem)</div>
       <div class="links">
         [<a href="https://arxiv.org/abs/2509.00105">paper</a>]
+      </div>
+    </li>
+    <li class="cvitem">
+      <div class="cvitem-title">Transformer-based Predictions for Sudden Network Changes</div>
+      <div class="authorlist">Siddhant Ray, <b class="me">Zhuohan Gu</b>, Xi Jiang, Junchen Jiang, Nick Feamster</div>
+      <div class="venue">NSDI 2024 Poster Session</div>
+      <div class="links">
+        [<a href="https://siddhant-ray.github.io/assets/pdf/transformer_nsdi_poster.pdf">poster</a>]
       </div>
     </li>
     <li class="cvitem">
@@ -97,7 +102,7 @@ author_profile: true
 </div>
 
 <div class="research-section">
-  <h3>Past Projects</h3><hr />
+  <h3>Past Projects</h3>
   <ul class="cvlist">
     <li class="cvitem">
       <div class="cvitem-title">LMCache: The first open-source Knowledge Delivery Network (KDN) for LLM applications</div>
