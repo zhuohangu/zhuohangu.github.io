@@ -20,8 +20,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Group"
-    url: https://dsg.csail.mit.edu/
+  # - title: "Group"
+  #   url: https://dsg.csail.mit.edu/
 
   - title: "Collaborations"
     url: /collaborations/
