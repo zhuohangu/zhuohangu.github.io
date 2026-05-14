@@ -17,7 +17,7 @@ redirect_from:
   .page__content a:hover,
   .page__content a:focus {
     color: #a52a2a;
-    text-decoration: none;
+    text-decoration: underline;
   }
 </style>
 
