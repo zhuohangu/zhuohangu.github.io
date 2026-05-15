@@ -51,6 +51,13 @@
   list-style-type: none;
   white-space: nowrap;
 
+  &--active > a {
+    color: $link-color;
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 0.25em;
+  }
+
   &--lg {
     padding-right: 2em;
     font-weight: 700;
