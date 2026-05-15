@@ -114,24 +114,29 @@ author_profile: true
 </div>
 
 <ul class="post-list">
+  {% for post in site.posts %}
+  {% assign post_year = post.date | date: '%Y' %}
   <li>
     <h3>
-      <a class="post-title" href="{{ '/blog/' | relative_url }}">Coming very soon</a>
+      <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h3>
-    <p class="post-description">We study ...</p>
+    {% if post.excerpt %}
+    <p class="post-description">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+    {% endif %}
     <p class="post-meta">
-      x min read &nbsp; &middot; &nbsp;
-      May, 2026
+      {{ post.date | date: "%B %d, %Y" }}
     </p>
+    {% if post.tags.size > 0 %}
     <p class="post-tags">
-      <a href="{{ '/year-archive/#2026' | relative_url }}">
-        <i class="fa-solid fa-calendar fa-sm" aria-hidden="true"></i> 2026</a>
+      <a href="{{ '/year-archive/#' | append: post_year | relative_url }}">
+        <i class="fa-solid fa-calendar fa-sm" aria-hidden="true"></i> {{ post_year }}</a>
+      {% for tag in post.tags %}
       &nbsp; &middot; &nbsp;
-      <a href="{{ '/tags/#tag1' | relative_url }}">
-        <i class="fa-solid fa-hashtag fa-sm" aria-hidden="true"></i> tag1</a>
-      &nbsp;
-      <a href="{{ '/tags/#tag2' | relative_url }}">
-        <i class="fa-solid fa-hashtag fa-sm" aria-hidden="true"></i> tag2</a>
+      <a href="{{ '/tags/#' | append: tag | relative_url }}">
+        <i class="fa-solid fa-hashtag fa-sm" aria-hidden="true"></i> {{ tag }}</a>
+      {% endfor %}
     </p>
+    {% endif %}
   </li>
+  {% endfor %}
 </ul>
