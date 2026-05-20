@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: 'PEEK: Give Your Agent an Orientation Cache'
-date: 2026-05-19
+date: 2026-05-20
 nav: true
 description: >
     We introduce **PEEK**, a system that caches reusable **orientation knowledge** about a recurring external context as a small, prompt-resident **context map**.
