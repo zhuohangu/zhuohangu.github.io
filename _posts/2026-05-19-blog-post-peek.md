@@ -199,6 +199,21 @@ We’re excited to see where the agent-side cache idea goes next. Whether you ar
 I would like to thank the wonderful MIT DSG and MIT OASYS labs, my fellow MIT EECS students, and my family for their support during the first year of my PhD. I am also grateful to my friends at UChicago, Stanford, UC Berkeley, Harvard, and Brown for their valuable feedback. We also thank Alex Zhang, the first author of the RLM paper, for insightful discussions.
 
 ## Citation
-```
-[Add BibTeX here.]
-```
+<div style="position: relative; margin: 1rem 0 0; padding: 1rem 1.25rem; border-left: 4px solid #7b2d26; border-radius: 10px; background: linear-gradient(135deg, #fbf4f1 0%, #fffaf8 100%); box-shadow: 0 8px 24px rgba(123, 45, 38, 0.08);">
+  <button type="button" class="js-copy-citation" data-copy-target="#peek-citation-bibtex" style="position: absolute; top: 0.85rem; right: 1rem; padding: 0.3rem 0.65rem; border: 1px solid rgba(123, 45, 38, 0.2); border-radius: 999px; background: #fff7f3; color: #7b2d26; font-size: 0.82rem; font-weight: 600; cursor: pointer;">Copy to Clipboard</button>
+
+  <p style="margin-top: 0; margin-bottom: 0.55rem;">
+    <strong style="color: #7b2d26; letter-spacing: 0.02em;">BibTeX</strong><br>
+    If you use PEEK in your research, please cite it as follows.
+  </p>
+
+  <pre style="margin: 0; padding: 0.75rem 0.95rem; border: 1px solid rgba(123, 45, 38, 0.12); border-radius: 8px; background: rgba(255, 255, 255, 0.88); overflow-x: auto; line-height: 1.35;"><code id="peek-citation-bibtex">@misc{gu2026peekcontextmaporientation,
+      title={PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents}, 
+      author={Zhuohan Gu and Qizheng Zhang and Omar Khattab and Samuel Madden},
+      year={2026},
+      eprint={2605.19932},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2605.19932}, 
+}</code></pre>
+</div>
