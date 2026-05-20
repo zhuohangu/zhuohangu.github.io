@@ -40,6 +40,33 @@ author_profile: true
   .award { font-weight: bold; color: #d94747; margin: 0 0 3px 0; }
   .media { color: #000; margin: 0 0 3px 0; }
   .links { color: #000; margin: 0; }
+  .feature-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.18rem;
+    margin-left: 0.45rem;
+    color: #e8a23e;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .feature-badge__icon {
+    color: #e8a23e;
+    line-height: 1;
+  }
+  .cvlist .feature-badge a,
+  .cvlist .feature-badge a:visited {
+    color: #e8a23e;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: rgba(232, 162, 62, 0.7);
+    text-decoration-thickness: 0.08em;
+    text-underline-offset: 0.14em;
+  }
+  .cvlist .feature-badge a:hover,
+  .cvlist .feature-badge a:focus {
+    color: #c97e18;
+    text-decoration: underline;
+  }
 
   /* Hide the default page title */
   .page__title { display: none; }
@@ -63,6 +90,7 @@ author_profile: true
         [<a href="https://arxiv.org/abs/2605.19932">paper</a>]
         [<a href="https://github.com/zhuohangu/peek">code</a>]
         [<a href="https://zhuohangu.github.io/blog-post-peek/">blog</a>]
+        <span class="feature-badge"><span class="feature-badge__icon" aria-hidden="true">Featured on </span><a href="https://huggingface.co/papers/date/2026-05-20">🤗 Daily Papers</a></span>
       </div>
     </li>
     <li class="cvitem">
