@@ -238,7 +238,8 @@ figcaption {
   margin-bottom: 0.5em;
   color: mix(#fff, $text-color, 25%);
   font-family: $caption-font-family;
-  font-size: $type-size-6;
+  font-size: 0.85em;
+//   font-size: $type-size-6;
 
   a {
     color: inherit;
