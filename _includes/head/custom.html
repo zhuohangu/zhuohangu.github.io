@@ -18,6 +18,21 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json?v=M44lzPylqQ">
 <link rel="mask-icon" href="{{ base_path }}/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
 <link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+
+{% if page.layout == 'distill' %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap">
+  <!-- Distill web-components -->
+  <script src="{{ base_path }}/assets/js/distillpub/template.v2.js"></script>
+  <script src="{{ base_path }}/assets/js/distillpub/transforms.v2.js"></script>
+  {% if page._styles %}
+    <!-- Page/Post style -->
+    <style type="text/css">
+      {{ page._styles }}
+    </style>
+  {% endif %}
+{% endif %}
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="msapplication-TileImage" content="{{ base_path }}/images/uchi_logo.png?v=M44lzPylqQ">
 <meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">

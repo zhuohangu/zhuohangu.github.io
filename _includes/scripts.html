@@ -1,3 +1,7 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+{% if page.layout == 'distill' %}
+  <script src="{{ base_path }}/assets/js/distillpub/overrides.js"></script>
+{% endif %}
+
 {% include analytics.html %}
