@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<d-front-matter>
+  <script async type="text/json">
+    {
+      "title": {{ page.title | jsonify }},
+      "description": {{ page.description | strip | jsonify }},
+      "published": {{ page.date | date: '%B %d, %Y' | jsonify }},
+      "authors": [
+        {% for author in page.authors %}
+        {
+          "author": {{ author.name | jsonify }},
+          "authorURL": {{ author.url | default: '' | jsonify }},
+          "affiliations": [
+            {
+              "name": {{ author.affiliations.name | jsonify }},
+              "url": {{ author.affiliations.url | default: '' | jsonify }}
+            }
+          ]
+        }{% if forloop.last == false %},{% endif %}
+        {% endfor %}
+      ],
+      "katex": {
+        "delimiters": [
+          { "left": "$",  "right": "$",  "display": false },
+          { "left": "$$", "right": "$$", "display": true  }
+        ]
+      }
+    }
+  </script>
+</d-front-matter>
+
+<div class="post distill">
+  <d-title>
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.description | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p>
+    {% if page.read_time %}
+      {% capture distill_read_time %}{% include read-time.html %}{% endcapture %}
+      <p class="distill-read-time">{{ distill_read_time | strip }}</p>
+    {% endif %}
+  </d-title>
+
+  {% if page.authors %}
+    <d-byline></d-byline>
+  {% endif %}
+
+  <d-article>
+    {% if page.toc %}
+      <d-contents>
+        <nav class="l-text figcaption">
+          <h3>Contents</h3>
+          {% for section in page.toc %}
+            <div>
+              <a href="#{{ section.name | slugify }}">{{ section.name }}</a>
+            </div>
+            {% if section.subsections %}
+              <ul>
+                {% for subsection in section.subsections %}
+                  <li>
+                    <a href="#{{ subsection.name | slugify }}">{{ subsection.name }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          {% endfor %}
+        </nav>
+      </d-contents>
+    {% endif %}
+
+    {{ content }}
+  </d-article>
+
+  <d-appendix>
+    <d-footnote-list></d-footnote-list>
+    <d-citation-list></d-citation-list>
+  </d-appendix>
+
+  {% if page.bibliography %}
+    <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
+  {% endif %}
+</div>
