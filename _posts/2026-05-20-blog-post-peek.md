@@ -204,7 +204,7 @@ I would like to thank the wonderful MIT DSG and MIT OASYS labs, my fellow MIT EE
 
   <p style="margin-top: 0; margin-bottom: 0.55rem;">
     <strong style="color: #7b2d26; letter-spacing: 0.02em;">BibTeX</strong><br>
-    If you use PEEK in your research, please cite it as follows.
+    To cite this blog post or use PEEK in your research, please use the following citation.
   </p>
 
   <pre style="margin: 0; padding: 0.75rem 0.95rem; border: 1px solid rgba(123, 45, 38, 0.12); border-radius: 8px; background: rgba(255, 255, 255, 0.88); overflow-x: auto; line-height: 1.35;"><code id="peek-citation-bibtex">@misc{gu2026peekcontextmaporientation,
