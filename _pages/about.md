@@ -60,14 +60,6 @@ I also love movies, astronomy, food, etc.
 
 _To be continued…_
 
-<div class="stat" style="transform: scale(0.08); transform-origin: top left;">
-    <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=4SQKQkc5llCCepDkHv5BYmCIevbYKzclJr0RIzH81ec"></script>
+<div class="visitor-map" style="margin-top: 2em; text-align: center;">
+  <iframe src="https://revolvermaps2.com/widget/ad189614-002d-46cf-b69d-09c54a29d6cd" width="320" height="320" style="border:0;" loading="lazy" title="Visitor map"></iframe>
 </div>
-
-<style>
-    .stat {
-        margin: 0;
-        padding: 0;
-        margin-bottom: -600px
-    }
-</style>
