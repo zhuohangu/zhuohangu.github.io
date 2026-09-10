@@ -35,11 +35,11 @@ redirect_from:
 
 </div>
 
-🎓 I'm a first-year CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/), advised by [Samuel Madden](https://db.csail.mit.edu/madden/). I'm a member of [MIT CSAIL Everest Lab](https://dsg.csail.mit.edu/everest/) and [LMCache Lab](https://lmcache.ai/). I have been fortunate to work with [Omar Khattab](https://omarkhattab.com/), [Junchen Jiang](https://people.cs.uchicago.edu/~junchenj/), [Ravi Netravali](https://www.cs.princeton.edu/~ravian/), [Kexin Pei](https://sites.google.com/site/kexinpeisite/), and [Ganesh Ananthanarayanan](https://www.microsoft.com/en-us/research/people/ga/). Previously, I graduated from the University of Chicago with B.S. in Mathematics and Computer Science.
+🎓 I'm a second-year CS Ph.D. student at [CSAIL](https://www.csail.mit.edu/), MIT [EECS](https://www.eecs.mit.edu/), advised by [Samuel Madden](https://db.csail.mit.edu/madden/). I'm a member of [MIT CSAIL Everest Lab](https://dsg.csail.mit.edu/everest/) and [LMCache Lab](https://lmcache.ai/). I have been fortunate to work with [Omar Khattab](https://omarkhattab.com/), [Junchen Jiang](https://people.cs.uchicago.edu/~junchenj/), [Ravi Netravali](https://www.cs.princeton.edu/~ravian/), [Kexin Pei](https://sites.google.com/site/kexinpeisite/), and [Ganesh Ananthanarayanan](https://www.microsoft.com/en-us/research/people/ga/). Previously, I graduated from the University of Chicago with B.S. in Mathematics and Computer Science.
 
 <!-- ## Research -->
 
-👨‍💻 My research interests lie broadly in **computer systems** and **artificial intelligence**. I build more efficient, reliable systems to improve ML/AI workloads, e.g., agentic context management, AI query engines for deep research, and KV cache management.
+👨‍💻 My primary research interests lie broadly in **systems** and **artificial intelligence** for mid- and post-training, inference, and inference-time scaling of language models (LMs) and agents. My recent work focuses on 1) RL-based mid-/post-training and test-time scaling, 2) recursive self-improvement, and 3) AI query engines for agentic search. I’ve also worked on 4) high-performance KV cache management for LM serving.
 
 In a fruitful and diverse previous life, I was a research engineer on the founding team of [Tensormesh](https://www.tensormesh.ai/) (creator of LMCache). During my undergraduate years, I began research in mathematics, advised by [Gregory Lawler](https://math.uchicago.edu/~lawler/) and [Jinwoo Sung](https://sites.math.washington.edu/~jwsung/), and worked on probability theory.
 
