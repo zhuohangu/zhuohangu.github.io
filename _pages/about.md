@@ -39,7 +39,7 @@ redirect_from:
 
 <!-- ## Research -->
 
-👨‍💻 My primary research interests lie broadly in **systems** and **artificial intelligence** for mid- and post-training, inference, and inference-time scaling of language models (LMs) and agents. My recent work focuses on 1) RL-based mid-/post-training and test-time scaling, 2) recursive self-improvement, and 3) Information Retrieval. I’ve also worked on 4) high-performance KV cache management for LM serving.
+👨‍💻 My primary research interests lie broadly in **systems** and **artificial intelligence** for mid- and post-training, inference, and inference-time scaling of language models (LMs) and agents. My recent work focuses on 1) RL-based mid-/post-training and test-time scaling, 2) recursive self-improvement, and 3) retrieval. I’ve also worked on 4) high-performance KV cache management for LM serving.
 
 In a fruitful and diverse previous life, I was a research engineer on the founding team of [Tensormesh](https://www.tensormesh.ai/) (creator of LMCache). During my undergraduate years, I began research in mathematics, advised by [Gregory Lawler](https://math.uchicago.edu/~lawler/) and [Jinwoo Sung](https://sites.math.washington.edu/~jwsung/), and worked on probability theory.
 
